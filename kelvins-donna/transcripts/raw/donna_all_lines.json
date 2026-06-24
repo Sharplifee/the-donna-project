@@ -1,0 +1,3122 @@
+[
+  {
+    "ep": "s01e01",
+    "line": "we're going to need to streamline this.",
+    "prev_speaker": "Great",
+    "context_before": "Okay.",
+    "context_after": "Give each guy a hard time before you send them back.",
+    "tags": [
+      "TO:OTHER(Great)"
+    ]
+  },
+  {
+    "ep": "s01e01",
+    "line": "can you show me how to fill out a subpoena? Absolutely.",
+    "prev_speaker": "Then what do you need",
+    "context_before": "Then what do you need my help for? I don't know how to fill out a subpoena.",
+    "context_after": "And after that, you want me to show you how to wipe your ass? It's funny, because you should already know how to do both those things.",
+    "tags": [
+      "TO:OTHER(Then what do you need)"
+    ]
+  },
+  {
+    "ep": "s01e01",
+    "line": "I need the Oh, also, I didn't have a chance to Marry me? I took care of that, too.",
+    "prev_speaker": "Get the hell out",
+    "context_before": "Get the hell out.",
+    "context_after": "We've been married for the last seven years.",
+    "tags": [
+      "TO:OTHER(Get the hell out)"
+    ]
+  },
+  {
+    "ep": "s01e05",
+    "line": "schedule another tea party with Joy as soon as possible.",
+    "prev_speaker": "I All you had to do",
+    "context_before": "I All you had to do was have tea with the dolls.",
+    "context_after": "And text me the names of her girls.",
+    "tags": [
+      "TO:OTHER(I All you had to do)",
+      "REG:GATEKEEPER"
+    ]
+  },
+  {
+    "ep": "s01e05",
+    "line": "call the court.",
+    "prev_speaker": "Besides",
+    "context_before": "Okay? I'm going to get it dismissed.",
+    "context_after": "We need priority status on the docket.",
+    "tags": [
+      "TO:OTHER(Besides)"
+    ]
+  },
+  {
+    "ep": "s01e05",
+    "line": "is one thing that I can't give you.",
+    "prev_speaker": "You owe me now",
+    "context_before": "You owe me now.",
+    "context_after": "Why not? For one thing, she'd never agree to it.",
+    "tags": [
+      "TO:OTHER(You owe me now)"
+    ]
+  },
+  {
+    "ep": "s01e05",
+    "line": "listen.",
+    "prev_speaker": "So",
+    "context_before": "No.",
+    "context_after": "Even if your soul hurts a little bit I'm sorry.",
+    "tags": [
+      "TO:OTHER(So)"
+    ]
+  },
+  {
+    "ep": "s01e06",
+    "line": "where the hell is Mike? Hey, anyone know a guy named Bradley? Yeah.",
+    "prev_speaker": "You make me look bad",
+    "context_before": "You make me look bad on this, I promise you, you'll regret it.",
+    "context_after": "Guy who's about to miss the jumper.",
+    "tags": [
+      "TO:OTHER(You make me look bad)"
+    ]
+  },
+  {
+    "ep": "s01e09",
+    "line": "this one's for Rachel.",
+    "prev_speaker": "Hold",
+    "context_before": "Hold Mike's hand while he crosses the street, not one of them.",
+    "context_after": "What do you need? I know we use the billing codes to charge the clients.",
+    "tags": [
+      "TO:OTHER(Hold)"
+    ]
+  },
+  {
+    "ep": "s01e12",
+    "line": "what am I going to do? There's only one thing to do.",
+    "prev_speaker": "I know",
+    "context_before": "I know.",
+    "context_after": "Quit.",
+    "tags": [
+      "TO:OTHER(I know)"
+    ]
+  },
+  {
+    "ep": "s02e02",
+    "line": "look.",
+    "prev_speaker": "Do you even know what",
+    "context_before": "Do you even know what a question is? Oh.",
+    "context_after": "I need information.",
+    "tags": [
+      "TO:OTHER(Do you even know what)"
+    ]
+  },
+  {
+    "ep": "s02e04",
+    "line": "I need to know if you ever saw this.",
+    "prev_speaker": "Oh",
+    "context_before": "Well? Oh, my God.",
+    "context_after": "Yes, Harvey.",
+    "tags": [
+      "TO:OTHER(Oh)"
+    ]
+  },
+  {
+    "ep": "s02e04",
+    "line": "two dozen people worked on this case, and any one of them could have seen it and missed it.",
+    "prev_speaker": "That document never",
+    "context_before": "That document never came into this office or you would have seen it.",
+    "context_after": "I need to know that didn't happen or I need to know who to fire.",
+    "tags": [
+      "TO:OTHER(That document never)"
+    ]
+  },
+  {
+    "ep": "s02e05",
+    "line": "Harvey's been operating under the assumption that we never had this memo, all right? At some point, that assumption is gonna bite him in the ass, and the later it happens, the bigger the bite.",
+    "prev_speaker": "No",
+    "context_before": "No, he won't.",
+    "context_after": "Nobody is going to believe that a file that important just got lost.",
+    "tags": [
+      "TO:OTHER(No)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s02e07",
+    "line": "it's important.",
+    "prev_speaker": "You came to get me to",
+    "context_before": "You came to get me to do the trial run.",
+    "context_after": "Yeah, important for me to get up there and say I screwed up trying to protect you? You did screw up.",
+    "tags": [
+      "TO:OTHER(You came to get me to)"
+    ]
+  },
+  {
+    "ep": "s02e07",
+    "line": "Paulsen.",
+    "prev_speaker": "No further questions",
+    "context_before": "What's done is done, right? The plaintiff calls Ms.",
+    "context_after": "Ms.",
+    "tags": [
+      "TO:OTHER(No further questions)"
+    ]
+  },
+  {
+    "ep": "s02e07",
+    "line": "I can.",
+    "prev_speaker": "Have you ever stated",
+    "context_before": "Have you ever stated to one Rachel Zane that you are indeed the best legal secretary in the city? Mike, you can't.",
+    "context_after": "Yes.",
+    "tags": [
+      "TO:OTHER(Have you ever stated)"
+    ]
+  },
+  {
+    "ep": "s02e07",
+    "line": "Paulsen to the stand.",
+    "prev_speaker": "The plaintiff would",
+    "context_before": "The plaintiff would like to call Ms.",
+    "context_after": "You got her to come in? Just stick to the script.",
+    "tags": [
+      "TO:OTHER(The plaintiff would)"
+    ]
+  },
+  {
+    "ep": "s02e07",
+    "line": "I'm not Harvey.",
+    "prev_speaker": "Bullshit",
+    "context_before": "Okay.",
+    "context_after": "I know.",
+    "tags": [
+      "TO:OTHER(Bullshit)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s02e09",
+    "line": "said you asked for it.",
+    "prev_speaker": "Was that your mom and",
+    "context_before": "What's this? The address of my tailor.",
+    "context_after": "And what would really happen to me if I show up at that address? You'd get a nice suit.",
+    "tags": [
+      "TO:OTHER(Was that your mom and)"
+    ]
+  },
+  {
+    "ep": "s02e10",
+    "line": "never makes mistakes.",
+    "prev_speaker": "Memo in the first",
+    "context_before": "Memo in the first place? Well Donna never saw the memo.",
+    "context_after": "What if she never saw it four years ago because it wasn't there? And then it was.",
+    "tags": [
+      "TO:OTHER(Memo in the first)"
+    ]
+  },
+  {
+    "ep": "s02e14",
+    "line": "I need your help.",
+    "prev_speaker": "What did you need",
+    "context_before": "I'm going to do it on my own.",
+    "context_after": "With what? Hardman.",
+    "tags": [
+      "TO:OTHER(What did you need)"
+    ]
+  },
+  {
+    "ep": "s02e14",
+    "line": "come on.",
+    "prev_speaker": "I want you to",
+    "context_before": "I can't do that.",
+    "context_after": "He made me look like a fool.",
+    "tags": [
+      "TO:OTHER(I want you to)"
+    ]
+  },
+  {
+    "ep": "s02e16",
+    "line": "remember? I told you.",
+    "prev_speaker": "Do not take your",
+    "context_before": "No.",
+    "context_after": "I am not that man anymore.",
+    "tags": [
+      "TO:OTHER(Do not take your)"
+    ]
+  },
+  {
+    "ep": "s03e01",
+    "line": "listen.",
+    "prev_speaker": "Big deal",
+    "context_before": "Big deal.",
+    "context_after": "When I was in ninth grade, there was this wrestler, Randy Cusumano.",
+    "tags": [
+      "TO:OTHER(Big deal)"
+    ]
+  },
+  {
+    "ep": "s03e01",
+    "line": "come on.",
+    "prev_speaker": "You think I",
+    "context_before": "You think I don't know about you two? Took me one look.",
+    "context_after": "You want to know how to get Harvey's loyalty back? Get in a time machine and undo what you did with Jessica.",
+    "tags": [
+      "TO:OTHER(You think I)"
+    ]
+  },
+  {
+    "ep": "s03e02",
+    "line": "and I have work to do.",
+    "prev_speaker": "Close the door on",
+    "context_before": "Close the door on your way out.",
+    "context_after": "LOUIS: There's a harsh reality I need to inform you of.",
+    "tags": [
+      "TO:OTHER(Close the door on)"
+    ]
+  },
+  {
+    "ep": "s03e02",
+    "line": "how can you How can I what? I just spent the last year hiding your boyfriend's double life.",
+    "prev_speaker": "And then",
+    "context_before": "And then, he betrayed Harvey.",
+    "context_after": "I'd say I'm a pretty understanding person.",
+    "tags": [
+      "TO:OTHER(And then)"
+    ]
+  },
+  {
+    "ep": "s03e03",
+    "line": "walked in in the middle and she took her to the woodshed.",
+    "prev_speaker": "Did",
+    "context_before": "Again? Yeah, I know.",
+    "context_after": "So, you're okay with what I did? I'm more than okay.",
+    "tags": [
+      "TO:OTHER(Did)"
+    ]
+  },
+  {
+    "ep": "s03e05",
+    "line": "Judge Atkins is ready to hear my motion for summary judgment, which she won't do if there aren't two copies of that motion in my hands in ten minutes.",
+    "prev_speaker": "You fit the dentist",
+    "context_before": "You fit the dentist in at lunch? He can be surprisingly quick, yet remarkably thorough.",
+    "context_after": "All right.",
+    "tags": [
+      "TO:OTHER(You fit the dentist)",
+      "REG:BOUNDARY"
+    ]
+  },
+  {
+    "ep": "s03e05",
+    "line": "slept with Stephen.",
+    "prev_speaker": "Rachel",
+    "context_before": "Rachel.",
+    "context_after": "Holy shit.",
+    "tags": [
+      "TO:RACHEL"
+    ]
+  },
+  {
+    "ep": "s03e06",
+    "line": "If you want somebody to just sit at her desk, answer your phones, and pick up your dry cleaning, then put out a want ad.",
+    "prev_speaker": "I bet his first time",
+    "context_before": "I bet his first time, he thought would be his last time.",
+    "context_after": "Because that's not me.",
+    "tags": [
+      "TO:OTHER(I bet his first time)"
+    ]
+  },
+  {
+    "ep": "s03e06",
+    "line": "I need you to Where the hell is Donna? I don't know.",
+    "prev_speaker": "And what I think is",
+    "context_before": "And what I think is if you do this, you're going to keep doing it.",
+    "context_after": "I was waiting for her myself.",
+    "tags": [
+      "TO:OTHER(And what I think is)"
+    ]
+  },
+  {
+    "ep": "s03e06",
+    "line": "I can't get you another job.",
+    "prev_speaker": "You",
+    "context_before": "I'm not working at a place headed by a viper.",
+    "context_after": "Oh.",
+    "tags": [
+      "TO:OTHER(You)"
+    ]
+  },
+  {
+    "ep": "s03e07",
+    "line": "I wasn't trying to mess with him.",
+    "prev_speaker": "And when you mess",
+    "context_before": "And when you mess with him, you mess with me.",
+    "context_after": "I was trying to help him.",
+    "tags": [
+      "TO:OTHER(And when you mess)"
+    ]
+  },
+  {
+    "ep": "s03e07",
+    "line": "are you okay? Yeah, I'm fine.",
+    "prev_speaker": "Yeah",
+    "context_before": "Yeah, well, I don't actually care.",
+    "context_after": "Hey, Donna.",
+    "tags": [
+      "TO:OTHER(Yeah)",
+      "REG:EMOTIONAL"
+    ]
+  },
+  {
+    "ep": "s03e07",
+    "line": "where's Harvey? He's with Jessica.",
+    "prev_speaker": "A real lawyer",
+    "context_before": "A real lawyer.",
+    "context_after": "Where? They're not in her office.",
+    "tags": [
+      "TO:OTHER(A real lawyer)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s03e08",
+    "line": "I will, but now is not the time.",
+    "prev_speaker": "This",
+    "context_before": "You're not gonna put him on the stand?  You said you were gonna make him pay.",
+    "context_after": "Then when? Because he killed people,  and if we let him get away with it  Then maybe we are no different than he is.",
+    "tags": [
+      "TO:OTHER(This)"
+    ]
+  },
+  {
+    "ep": "s03e09",
+    "line": "unless someone died, I don't need to sit down.",
+    "prev_speaker": "What is",
+    "context_before": "What is it? I think you should sit down.",
+    "context_after": "Just tell me.",
+    "tags": [
+      "TO:OTHER(What is)"
+    ]
+  },
+  {
+    "ep": "s03e10",
+    "line": "not a good idea.",
+    "prev_speaker": "Why are you talking",
+    "context_before": "\" I wanna talk to Stephen.",
+    "context_after": "Mike, please.",
+    "tags": [
+      "TO:OTHER(Why are you talking)"
+    ]
+  },
+  {
+    "ep": "s03e10",
+    "line": "told me that Stephen's affidavit is dead.",
+    "prev_speaker": "You just need to",
+    "context_before": "You just need to decide whether you care more about money or your girlfriend.",
+    "context_after": "It is.",
+    "tags": [
+      "TO:OTHER(You just need to)"
+    ]
+  },
+  {
+    "ep": "s03e12",
+    "line": "get in here.",
+    "prev_speaker": "Goddamn it",
+    "context_before": "Goddamn it.",
+    "context_after": "Why are you calling Donna? Because she's the one who found out that Louis knows you don't have a file in the Harvard file room.",
+    "tags": [
+      "TO:OTHER(Goddamn it)"
+    ]
+  },
+  {
+    "ep": "s03e12",
+    "line": "I am trying so hard to be brave.",
+    "prev_speaker": "But",
+    "context_before": "But that's not gonna happen.",
+    "context_after": "But what if Louis ends up finding out everything about Mike? What if he ends up exposing him and he actually gets arrested? What if he actually God.",
+    "tags": [
+      "TO:OTHER(But)"
+    ]
+  },
+  {
+    "ep": "s03e13",
+    "line": "ever since I've been here.",
+    "prev_speaker": "And my knowing that",
+    "context_before": "And my knowing that is the only gift he'll ever need from me.",
+    "context_after": "Every morning, I step off that elevator, wondering if this is going to be my last day.",
+    "tags": [
+      "TO:OTHER(And my knowing that)"
+    ]
+  },
+  {
+    "ep": "s03e14",
+    "line": "I don't have time to see anyone right Oh, look who it is.",
+    "prev_speaker": "I have someone here",
+    "context_before": "I have someone here to see you.",
+    "context_after": "Where the hell have you been? Harvey, don't be a dick.",
+    "tags": [
+      "TO:OTHER(I have someone here)"
+    ]
+  },
+  {
+    "ep": "s03e14",
+    "line": "said you wanted to see me about some more managerial bullshit.",
+    "prev_speaker": "Why are you doing",
+    "context_before": "Why are you doing this? Let's just say I love my job But I know what it feels like to be trapped.",
+    "context_after": "What? Don't you think I learned my lesson with the checks? Then why am I here? RACHEL: You're here to listen to me.",
+    "tags": [
+      "TO:OTHER(Why are you doing)"
+    ]
+  },
+  {
+    "ep": "s03e15",
+    "line": "someone's offering me a way out.",
+    "prev_speaker": "He needs you",
+    "context_before": "He needs you, you need this job, and if you can't see that, then you might as well just leave right now.",
+    "context_after": "So you don't care about him.",
+    "tags": [
+      "TO:OTHER(He needs you)"
+    ]
+  },
+  {
+    "ep": "s03e15",
+    "line": "explained your feelings to you and now you're here to apologize.",
+    "prev_speaker": "Let me guess",
+    "context_before": "Let me guess.",
+    "context_after": "Maybe.",
+    "tags": [
+      "TO:OTHER(Let me guess)",
+      "REG:EMOTIONAL"
+    ]
+  },
+  {
+    "ep": "s03e15",
+    "line": "I did something when I hired him.",
+    "prev_speaker": "These are my goddamn",
+    "context_before": "These are my goddamn feelings.",
+    "context_after": "It's caused all of this.",
+    "tags": [
+      "TO:OTHER(These are my goddamn)"
+    ]
+  },
+  {
+    "ep": "s03e16",
+    "line": "do you want me and Scottie to succeed or not? I want you to be happy.",
+    "prev_speaker": "Because you forced it",
+    "context_before": "Because you forced it out of me.",
+    "context_after": "That's an evasive answer.",
+    "tags": [
+      "TO:OTHER(Because you forced it)"
+    ]
+  },
+  {
+    "ep": "s03e16",
+    "line": "I don't wanna hear it.",
+    "prev_speaker": "Scottie",
+    "context_before": "Yeah? Let's go somewhere new.",
+    "context_after": "I didn't tell her about Mike.",
+    "tags": [
+      "TO:OTHER(Scottie)"
+    ]
+  },
+  {
+    "ep": "s03e16",
+    "line": "you can thank me all you want.",
+    "prev_speaker": "Thanks for meeting",
+    "context_before": "Thanks for meeting with me.",
+    "context_after": "I don't know anything about Eric Woodall.",
+    "tags": [
+      "TO:OTHER(Thanks for meeting)"
+    ]
+  },
+  {
+    "ep": "s03e16",
+    "line": "I'm just writing him a note telling him I wanted to talk.",
+    "prev_speaker": "You never know what",
+    "context_before": "DONNA: Not now, Scottie.",
+    "context_after": "(SCOFFS) \"To talk.",
+    "tags": [
+      "TO:OTHER(You never know what)"
+    ]
+  },
+  {
+    "ep": "s04e01",
+    "line": "I got Paul Porter's annual restructuring proposal.",
+    "prev_speaker": "Leave out Specter",
+    "context_before": "Leave out Specter.",
+    "context_after": "Can you file it under \"I don't give a shit\"? What about Mike? You want me to have Rachel prepare a dog and pony show for him? That won't be necessary.",
+    "tags": [
+      "TO:OTHER(Leave out Specter)"
+    ]
+  },
+  {
+    "ep": "s04e01",
+    "line": "the next time I need help figuring out how to treat a client, I'll let you know.",
+    "prev_speaker": "But",
+    "context_before": "But Mike's a client and you need to start treating him like one.",
+    "context_after": "Okay, great.",
+    "tags": [
+      "TO:OTHER(But)"
+    ]
+  },
+  {
+    "ep": "s04e01",
+    "line": "would you happen to have the measurements to Hardman's old office? Louis, get out of my way.",
+    "prev_speaker": "Just the woman I",
+    "context_before": "Just the woman I wanted to see.",
+    "context_after": "Whoa.",
+    "tags": [
+      "TO:OTHER(Just the woman I)"
+    ]
+  },
+  {
+    "ep": "s04e02",
+    "line": "tell Paul Porter he's meeting me for lunch.",
+    "prev_speaker": "Whatever lets you",
+    "context_before": "Whatever lets you sleep at night, white boy.",
+    "context_after": "When he gets there, tell them to seat him with Jeff Malone.",
+    "tags": [
+      "TO:OTHER(Whatever lets you)"
+    ]
+  },
+  {
+    "ep": "s04e02",
+    "line": "did.",
+    "prev_speaker": "Then",
+    "context_before": "I didn't set that meeting.",
+    "context_after": "And if I didn't want you there, I'd just tell you to your face.",
+    "tags": [
+      "TO:OTHER(Then)"
+    ]
+  },
+  {
+    "ep": "s04e02",
+    "line": "Seven.",
+    "prev_speaker": "Those are the last",
+    "context_before": "Those are the last seven Todd Smiths you evaluated.",
+    "context_after": "And you didn't cut one of them loose.",
+    "tags": [
+      "TO:OTHER(Those are the last)"
+    ]
+  },
+  {
+    "ep": "s04e02",
+    "line": "that wasn't your fault.",
+    "prev_speaker": "And then",
+    "context_before": "And then, the day before we closed Her father died.",
+    "context_after": "But I still felt horrible and ashamed 'cause my jealousy had brought out something really ugly in me.",
+    "tags": [
+      "TO:OTHER(And then)"
+    ]
+  },
+  {
+    "ep": "s04e02",
+    "line": "there is nothing going on between You're not losing your edge.",
+    "prev_speaker": "How could I miss",
+    "context_before": "How could I miss it? I'm losing my edge.",
+    "context_after": "But I ended my relationship with Jeff Malone the day that I hired him.",
+    "tags": [
+      "TO:OTHER(How could I miss)"
+    ]
+  },
+  {
+    "ep": "s04e03",
+    "line": "his arguments are loaded with double meaning.",
+    "prev_speaker": "What was the meeting",
+    "context_before": "What was the meeting about? It doesn't matter.",
+    "context_after": "Who invokes the penal code in an SEC case? He said \"penal\"? Three times.",
+    "tags": [
+      "TO:OTHER(What was the meeting)"
+    ]
+  },
+  {
+    "ep": "s04e03",
+    "line": "I don't think you understand the power of my sexuality.",
+    "prev_speaker": "What do you mean",
+    "context_before": "It'll pass.",
+    "context_after": "What are you doing? Oh, you know.",
+    "tags": [
+      "TO:OTHER(What do you mean)"
+    ]
+  },
+  {
+    "ep": "s04e03",
+    "line": "I know you're feeling bad about the tapes, but That has nothing to do with it.",
+    "prev_speaker": "Why",
+    "context_before": "He's never gonna listen to you.",
+    "context_after": "Then what are you saying? I feel guilty that I told him.",
+    "tags": [
+      "TO:OTHER(Why)",
+      "REG:PREEMPTIVE",
+      "REG:EMOTIONAL"
+    ]
+  },
+  {
+    "ep": "s04e05",
+    "line": "forget about my extraordinary gift and focus on yourself.",
+    "prev_speaker": "Vengeance is in my",
+    "context_before": "What? What's the matter? Are you kidding me? You have every word this man's ever written memorized, and I'm on in an hour and a half, and I'm gonna make a fool of myself.",
+    "context_after": "We have done this whole play.",
+    "tags": [
+      "TO:OTHER(Vengeance is in my)"
+    ]
+  },
+  {
+    "ep": "s04e05",
+    "line": "Victoria Paulsen.",
+    "prev_speaker": "But I Look at me",
+    "context_before": "But I Look at me.",
+    "context_after": "You have never been more beautiful and talented, and perfect than you are at this very moment.",
+    "tags": [
+      "TO:OTHER(But I Look at me)"
+    ]
+  },
+  {
+    "ep": "s04e05",
+    "line": "please.",
+    "prev_speaker": "You gave me a gift",
+    "context_before": "You gave me a gift, and I killed it because of you.",
+    "context_after": "I'm not a lawyer, Louis.",
+    "tags": [
+      "TO:OTHER(You gave me a gift)",
+      "REG:WIT"
+    ]
+  },
+  {
+    "ep": "s04e06",
+    "line": "please.",
+    "prev_speaker": "Louis",
+    "context_before": "Louis, this must have cost a fortune.",
+    "context_after": "You helped me overcome my stage fright.",
+    "tags": [
+      "TO:LOUIS",
+      "REG:WIT"
+    ]
+  },
+  {
+    "ep": "s04e06",
+    "line": "please.",
+    "prev_speaker": "You are a great",
+    "context_before": "You are a great person who had a not-so-great moment.",
+    "context_after": "You can't say a word to anyone.",
+    "tags": [
+      "TO:OTHER(You are a great)",
+      "REG:WIT"
+    ]
+  },
+  {
+    "ep": "s04e06",
+    "line": "Mike got fired.",
+    "prev_speaker": "What are you talking",
+    "context_before": "What are you talking about? I just got a text from Amy.",
+    "context_after": "Now, you really can't tell him.",
+    "tags": [
+      "TO:OTHER(What are you talking)"
+    ]
+  },
+  {
+    "ep": "s04e07",
+    "line": "as far as he's concerned I sold him out to win the takeover.",
+    "prev_speaker": "Go ahead",
+    "context_before": "You've got Ellis at 4:00 today, McKinney at 10:00 tomorrow, Chamberlin at 2:00, and when should I pencil you in to go see Mike? See him for what? To be a friend.",
+    "context_after": "I am the last person he wants to see right now.",
+    "tags": [
+      "TO:OTHER(Go ahead)"
+    ]
+  },
+  {
+    "ep": "s04e08",
+    "line": "I went to the bullpen, some guy with a soul patch was sitting at my desk.",
+    "prev_speaker": "Come with me",
+    "context_before": "Come with me.",
+    "context_after": "That's because it's not your desk anymore, and you're not cool enough to pull off a soul patch.",
+    "tags": [
+      "TO:OTHER(Come with me)"
+    ]
+  },
+  {
+    "ep": "s04e08",
+    "line": "said she did this.",
+    "prev_speaker": "Look in the top left",
+    "context_before": "I am.",
+    "context_after": "She had the idea to give you an office.",
+    "tags": [
+      "TO:OTHER(Look in the top left)"
+    ]
+  },
+  {
+    "ep": "s04e09",
+    "line": "told me she already said this to you, but I want you to hear it from me.",
+    "prev_speaker": "Please",
+    "context_before": "I'll try.",
+    "context_after": "I wouldn't be back here if it wasn't for Louis.",
+    "tags": [
+      "TO:OTHER(Please)",
+      "REG:PREEMPTIVE"
+    ]
+  },
+  {
+    "ep": "s04e10",
+    "line": "Harvey, you did a good thing by getting him that job.",
+    "prev_speaker": "Then",
+    "context_before": "Then, why are you here? Because I still think we can help.",
+    "context_after": "It was the right instinct.",
+    "tags": [
+      "TO:OTHER(Then)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s04e10",
+    "line": "if he didn't show up for the interview it means it didn't work with Sheila.",
+    "prev_speaker": "Harvey got Louis a",
+    "context_before": "Harvey got Louis a job there because of Sheila, didn't he? Yes.",
+    "context_after": "Shit.",
+    "tags": [
+      "TO:OTHER(Harvey got Louis a)"
+    ]
+  },
+  {
+    "ep": "s04e10",
+    "line": "I am here because that man put my wellbeing before his own.",
+    "prev_speaker": "Listen to me",
+    "context_before": "Harvey's pissed at you because you don't have anything and Louis needs me.",
+    "context_after": "He gave up going after Sheila for me.",
+    "tags": [
+      "TO:OTHER(Listen to me)"
+    ]
+  },
+  {
+    "ep": "s04e11",
+    "line": "this is not on you.",
+    "prev_speaker": "He was going to call",
+    "context_before": "I'd never seen him like that before.",
+    "context_after": "Yes, it is.",
+    "tags": [
+      "TO:OTHER(He was going to call)"
+    ]
+  },
+  {
+    "ep": "s04e11",
+    "line": "said you wanted to see me.",
+    "prev_speaker": "But that someone",
+    "context_before": "But that someone isn't going to be you.",
+    "context_after": "No, I didn't want to see you, I needed to see you.",
+    "tags": [
+      "TO:OTHER(But that someone)"
+    ]
+  },
+  {
+    "ep": "s04e12",
+    "line": "I'm a little busy at the moment.",
+    "prev_speaker": "Like I said",
+    "context_before": "Like I said, I'm growing.",
+    "context_after": "Too busy to take on this? What's that? Just the first client that Jessica gave Harvey when he made name partner.",
+    "tags": [
+      "TO:OTHER(Like I said)"
+    ]
+  },
+  {
+    "ep": "s04e13",
+    "line": "how many times have I told you? I want you out front.",
+    "prev_speaker": "Then figure out a way",
+    "context_before": "Then figure out a way to make him forgive Mike.",
+    "context_after": "I'm the only associate with a secretary.",
+    "tags": [
+      "TO:OTHER(Then figure out a way)"
+    ]
+  },
+  {
+    "ep": "s04e13",
+    "line": "told you my favorite breakfast drink.",
+    "prev_speaker": "What are you I think",
+    "context_before": "What are you I think you call it a \"prunie\"? Congratulations.",
+    "context_after": "But what does that have to do with the price of tea in Antarctica? Donna also told me that you were pissed because you found out I gave you a client I didn't want in the first place.",
+    "tags": [
+      "TO:OTHER(What are you I think)"
+    ]
+  },
+  {
+    "ep": "s04e13",
+    "line": "I am not going to Louis.",
+    "prev_speaker": "Well",
+    "context_before": "Ugh! If only there was somebody in the office who was an expert on patent law.",
+    "context_after": "He'll never help me.",
+    "tags": [
+      "TO:OTHER(Well)"
+    ]
+  },
+  {
+    "ep": "s04e13",
+    "line": "I've had Harvey's back since the day I met him.",
+    "prev_speaker": "Harvey laid it on the",
+    "context_before": "Harvey laid it on the line with Daniel, and you didn't have his back.",
+    "context_after": "For your information, when I found out what Daniel was up to, I had him guarantee partnership was on the table.",
+    "tags": [
+      "TO:OTHER(Harvey laid it on the)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s04e13",
+    "line": "there's a reason why you are where you are and I am where I am.",
+    "prev_speaker": "Or maybe",
+    "context_before": "Or maybe you're just telling yourself that because you don't want to stand up to Daniel Hardman.",
+    "context_after": "And that is because one of us sees the bigger picture.",
+    "tags": [
+      "TO:OTHER(Or maybe)"
+    ]
+  },
+  {
+    "ep": "s04e14",
+    "line": "what are you doing here? I'm here because I can't take it anymore.",
+    "prev_speaker": "Yes",
+    "context_before": "Yes, I am.",
+    "context_after": "What? This place has no life, and I can't take it anymore.",
+    "tags": [
+      "TO:OTHER(Yes)"
+    ]
+  },
+  {
+    "ep": "s04e14",
+    "line": "I can't have him risking our other business.",
+    "prev_speaker": "Crash",
+    "context_before": "Crash Mike's meeting.",
+    "context_after": "It was one client, and you covered it.",
+    "tags": [
+      "TO:OTHER(Crash)"
+    ]
+  },
+  {
+    "ep": "s04e14",
+    "line": "Harvey, when are you gonna let him be his own man? His own man? He's out of control.",
+    "prev_speaker": "Then trust him to",
+    "context_before": "Then trust him to accept that on his own.",
+    "context_after": "He's identifying these people with his parents.",
+    "tags": [
+      "TO:OTHER(Then trust him to)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s04e14",
+    "line": "I have a theory that I can't prove and an opposition that's shown they're willing to alter evidence.",
+    "prev_speaker": "But now that",
+    "context_before": "But now that you've come up with this, maybe Harvey will change his mind.",
+    "context_after": "He's not gonna change his mind, and you know it.",
+    "tags": [
+      "TO:OTHER(But now that)"
+    ]
+  },
+  {
+    "ep": "s04e14",
+    "line": "look, I appreciate what you're doing, but unless you have this other way in your pocket, please, just leave me alone and let me try and think this thing through.",
+    "prev_speaker": "But now that",
+    "context_before": "There's got to be another way.",
+    "context_after": "No! I don't care what he says.",
+    "tags": [
+      "TO:OTHER(But now that)",
+      "REG:WIT"
+    ]
+  },
+  {
+    "ep": "s04e14",
+    "line": "if I go to Harvey with this and tell him what I know happened, he You don't know.",
+    "prev_speaker": "Well",
+    "context_before": "Well, it's possible that somebody went over there and released it from their secure facility.",
+    "context_after": "You think.",
+    "tags": [
+      "TO:OTHER(Well)",
+      "REG:PREEMPTIVE",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s04e15",
+    "line": "I'm sorry.",
+    "prev_speaker": "Then",
+    "context_before": "Then, why did he send me here to tell you to do everything you can to stick it to Evan Smith? She didn't take the deal, did she? No, she didn't.",
+    "context_after": "I didn't realize that you were still On the hot seat? Like I said, Harvey's busting his ass to fix it.",
+    "tags": [
+      "TO:OTHER(Then)",
+      "REG:EMOTIONAL"
+    ]
+  },
+  {
+    "ep": "s04e15",
+    "line": "you of all people should understand by now that to me, they're the same thing.",
+    "prev_speaker": "You mean for you to",
+    "context_before": "You mean for you to get me out of.",
+    "context_after": "What are you doing here? I went to see you at work.",
+    "tags": [
+      "TO:OTHER(You mean for you to)"
+    ]
+  },
+  {
+    "ep": "s04e15",
+    "line": "lied.",
+    "prev_speaker": "And right now",
+    "context_before": "And right now, I have a bigger problem.",
+    "context_after": "What do you mean, she lied? I mean, she didn't just bullshit her way into that file room, she used the words \"National Transportation Safety Board.",
+    "tags": [
+      "TO:OTHER(And right now)"
+    ]
+  },
+  {
+    "ep": "s04e15",
+    "line": "intent to commit fraud is a bullshit charge and he's just using it to try to scare you.",
+    "prev_speaker": "But I am guilty",
+    "context_before": "But I am guilty.",
+    "context_after": "Well, it's working.",
+    "tags": [
+      "TO:OTHER(But I am guilty)"
+    ]
+  },
+  {
+    "ep": "s04e15",
+    "line": "Paulsen.",
+    "prev_speaker": "State v",
+    "context_before": "State v.",
+    "context_after": "Is the defense counsel prepared to proceed with the arraignment? We are, Your Honor.",
+    "tags": [
+      "TO:OTHER(State v)"
+    ]
+  },
+  {
+    "ep": "s04e16",
+    "line": "I can't thank you enough for what you did.",
+    "prev_speaker": "Yeah",
+    "context_before": "I'm glad.",
+    "context_after": "Oh, you're welcome, Louis.",
+    "tags": [
+      "TO:OTHER(Yeah)"
+    ]
+  },
+  {
+    "ep": "s04e16",
+    "line": "I know I've asked you this before, but we're so much closer now than we were then, and Louis, I work for Harvey.",
+    "prev_speaker": "You need to start",
+    "context_before": "You need to start thinking about a new secretary.",
+    "context_after": "You know I can't be your secretary.",
+    "tags": [
+      "TO:OTHER(You need to start)",
+      "REG:PREEMPTIVE",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s04e16",
+    "line": "I know how you're feeling, but you just went through something huge, with being on trial, and, uh You need to give it time.",
+    "prev_speaker": "I think",
+    "context_before": "What? This isn't working for me anymore.",
+    "context_after": "You can't just quit.",
+    "tags": [
+      "TO:OTHER(I think)",
+      "REG:PREEMPTIVE",
+      "REG:EMOTIONAL",
+      "REG:COUNSEL"
+    ]
+  },
+  {
+    "ep": "s04e16",
+    "line": "please.",
+    "prev_speaker": "Donna",
+    "context_before": "Donna.",
+    "context_after": "I love you, Harvey.",
+    "tags": [
+      "TO:OTHER(Donna)",
+      "REG:WIT"
+    ]
+  },
+  {
+    "ep": "s05e01",
+    "line": "it is.",
+    "prev_speaker": "You realize I get to",
+    "context_before": "You realize I get to sleep with whoever's in the bubble, right? So long as you realize that my dad's in the bubble.",
+    "context_after": "Come here.",
+    "tags": [
+      "TO:OTHER(You realize I get to)"
+    ]
+  },
+  {
+    "ep": "s05e01",
+    "line": "what the hell are you doing? What does it look like I'm doing? I'm getting rid of these r\u00c3\u00a9sum\u00c3\u00a9s.",
+    "prev_speaker": "Remember that thing",
+    "context_before": "Remember that thing online? We're doing it.",
+    "context_after": "No, no.",
+    "tags": [
+      "TO:OTHER(Remember that thing)"
+    ]
+  },
+  {
+    "ep": "s05e01",
+    "line": "I need to get in touch with Henderson before lunch, and I need to get Braxton a bottle of wine.",
+    "prev_speaker": "So no thank you",
+    "context_before": "So no thank you.",
+    "context_after": "I took care of all that.",
+    "tags": [
+      "TO:OTHER(So no thank you)"
+    ]
+  },
+  {
+    "ep": "s05e01",
+    "line": "I'm drowning.",
+    "prev_speaker": "I need those two",
+    "context_before": "I'm afraid it's too late for that.",
+    "context_after": "This whole thing with the Slattery deal is-- I'm sorry about your deal, Harvey, but you should have thought about that before you turned me down.",
+    "tags": [
+      "TO:OTHER(I need those two)"
+    ]
+  },
+  {
+    "ep": "s05e01",
+    "line": "please.",
+    "prev_speaker": "This is my desk now",
+    "context_before": "This is my desk now, and I wish I could help you, but I can't.",
+    "context_after": "I'm sorry, Harvey, you're on your own.",
+    "tags": [
+      "TO:OTHER(This is my desk now)",
+      "REG:WIT"
+    ]
+  },
+  {
+    "ep": "s05e01",
+    "line": "you want me to talk to you, but now you're not talking to me.",
+    "prev_speaker": "It was meant for me",
+    "context_before": "It was meant for me.",
+    "context_after": "It was a ritual that Harvey and I would do before we went to trial.",
+    "tags": [
+      "TO:OTHER(It was meant for me)"
+    ]
+  },
+  {
+    "ep": "s05e01",
+    "line": "you didn't have to-- I didn't, but Harvey did.",
+    "prev_speaker": "You knew about that",
+    "context_before": "You knew about that too? Of course I did, which is why you're getting this.",
+    "context_after": "And he won't think to get you two a gift, 'cause I was always the one who took care of things like that, so I don't know what to say.",
+    "tags": [
+      "TO:OTHER(You knew about that)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s05e02",
+    "line": "moved on to something better.",
+    "prev_speaker": "Life is short",
+    "context_before": "Life is short.",
+    "context_after": "She didn't move on to something better.",
+    "tags": [
+      "TO:OTHER(Life is short)"
+    ]
+  },
+  {
+    "ep": "s05e02",
+    "line": "I need you to put that back where you found it, and I need you to put it back now.",
+    "prev_speaker": "This is",
+    "context_before": "This is Harvey's last three income statements, and I found them sitting in the copy machine.",
+    "context_after": "- I won't do it.",
+    "tags": [
+      "TO:OTHER(This is)"
+    ]
+  },
+  {
+    "ep": "s05e02",
+    "line": "you know what? You came to work for me.",
+    "prev_speaker": "You",
+    "context_before": "- Louis-- No.",
+    "context_after": "You knew who I was when you did, so now it's time for you to decide.",
+    "tags": [
+      "TO:OTHER(You)"
+    ]
+  },
+  {
+    "ep": "s05e03",
+    "line": "now is not a good time.",
+    "prev_speaker": "Feel free to send me",
+    "context_before": "I'm paying for everything else around here.",
+    "context_after": "I don't care.",
+    "tags": [
+      "TO:OTHER(Feel free to send me)"
+    ]
+  },
+  {
+    "ep": "s05e03",
+    "line": "hey, can I talk to you for a second? It's actually not a good time right this second.",
+    "prev_speaker": "Specter",
+    "context_before": "Specter, I know this is a bad time, but I have to remind you that-- I know! Jessica wants to see me.",
+    "context_after": "It's important.",
+    "tags": [
+      "TO:HARVEY"
+    ]
+  },
+  {
+    "ep": "s05e05",
+    "line": "the only way I can get this done is with Jack Soloff's help, and there is no way that he's gonna reverse the very same proposal that put him on the map.",
+    "prev_speaker": "No",
+    "context_before": "No, not an option.",
+    "context_after": "I'll tell you what Harvey would do.",
+    "tags": [
+      "TO:OTHER(No)"
+    ]
+  },
+  {
+    "ep": "s05e05",
+    "line": "Scottie, my brother, my Your what? I thought we were talking about the case.",
+    "prev_speaker": "And for your",
+    "context_before": "Mike.",
+    "context_after": "We started by talking about your dream.",
+    "tags": [
+      "TO:OTHER(And for your)"
+    ]
+  },
+  {
+    "ep": "s05e05",
+    "line": "please, leave me alone.",
+    "prev_speaker": "Hey",
+    "context_before": "Hey, you're not toner.",
+    "context_after": "Louis, you can't hide in here forever.",
+    "tags": [
+      "TO:OTHER(Hey)",
+      "REG:WIT"
+    ]
+  },
+  {
+    "ep": "s05e06",
+    "line": "I'm sorry, but I only have a certain amount of non-pettiness in me, and the real Louis Litt needs to come out somewhere.",
+    "prev_speaker": "No",
+    "context_before": "No, it was about pettiness.",
+    "context_after": "Okay, Louis, you want Dominic to think you're the man? Mm-hmm.",
+    "tags": [
+      "TO:OTHER(No)",
+      "REG:EMOTIONAL"
+    ]
+  },
+  {
+    "ep": "s05e07",
+    "line": "Louis isn't rational on his best days with issues that don't involve his sister, Now, how is he going to take it if I do what you're asking? And how do you think he's gonna react when he finds out you kept this from him? - He's not gonna find out.",
+    "prev_speaker": "What difference does",
+    "context_before": "What difference does that make? You promised him you wouldn't do it at all.",
+    "context_after": "- Yes, he is.",
+    "tags": [
+      "TO:OTHER(What difference does)",
+      "REG:RECOVERY",
+      "REG:GATEKEEPER"
+    ]
+  },
+  {
+    "ep": "s05e07",
+    "line": "I appreciate you telling me this as a friend.",
+    "prev_speaker": "And someday Louis is",
+    "context_before": "And someday Louis is gonna see that, too.",
+    "context_after": "Now, as a friend, I'm telling you to mind your own business.",
+    "tags": [
+      "TO:OTHER(And someday Louis is)"
+    ]
+  },
+  {
+    "ep": "s05e07",
+    "line": "I don't have time for this.",
+    "prev_speaker": "Yes",
+    "context_before": "Yes, you did, and you know it.",
+    "context_after": "- I have an appointment-- - What appointment? I checked with Gretchen so you couldn't get out of this with some made-up thing.",
+    "tags": [
+      "TO:OTHER(Yes)"
+    ]
+  },
+  {
+    "ep": "s05e08",
+    "line": "went home.",
+    "prev_speaker": "I do not feel safe in",
+    "context_before": "I do not feel safe in my own office.",
+    "context_after": "I'm here to speak to you alone.",
+    "tags": [
+      "TO:OTHER(I do not feel safe in)"
+    ]
+  },
+  {
+    "ep": "s05e08",
+    "line": "if you don't know me well enough to know that I deserve your help by now, nothing I tell you is gonna matter.",
+    "prev_speaker": "What did Louis say to",
+    "context_before": "What did Louis say to you that made you hit him? Why are you asking me that? Because you're asking me to pick your side, and I need to know if you deserve it.",
+    "context_after": "But whether I deserve it or not, I guarantee you Louis is going to have some dirty trick up his sleeve for that vote.",
+    "tags": [
+      "TO:OTHER(What did Louis say to)"
+    ]
+  },
+  {
+    "ep": "s05e09",
+    "line": "are you saying that you regret coming to me? No, Louis.",
+    "prev_speaker": "Because this whole",
+    "context_before": "Because this whole thing really started when you tried to make things right with Harvey for me coming to work for you.",
+    "context_after": "I'm saying maybe I had a hand in this too.",
+    "tags": [
+      "TO:OTHER(Because this whole)"
+    ]
+  },
+  {
+    "ep": "s05e11",
+    "line": "what are you doing here? Gretchen told me you weren't feeling well, so I dropped by to see how you're doing and tell you to cut the bullshit.",
+    "prev_speaker": "And even if they vote",
+    "context_before": "And even if they vote me out, they sure as hell won't vote you in.",
+    "context_after": "I don't understand.",
+    "tags": [
+      "TO:OTHER(And even if they vote)",
+      "REG:EMOTIONAL"
+    ]
+  },
+  {
+    "ep": "s05e11",
+    "line": "what are you doing in here? I need your help.",
+    "prev_speaker": "And it starts with us",
+    "context_before": "And it starts with us getting into a room, making a list of every goddamn person who knows the truth.",
+    "context_after": "Don't you mean, \"Thanks for working late, Donna.",
+    "tags": [
+      "TO:OTHER(And it starts with us)"
+    ]
+  },
+  {
+    "ep": "s05e11",
+    "line": "showed me that.",
+    "prev_speaker": "But I was out for",
+    "context_before": "But I was out for myself, Jessica.",
+    "context_after": "Are you saying you were after my job? Of course I wasn't.",
+    "tags": [
+      "TO:OTHER(But I was out for)"
+    ]
+  },
+  {
+    "ep": "s05e12",
+    "line": "I don't think you get it.",
+    "prev_speaker": "I explicitly told you",
+    "context_before": "I don't care.",
+    "context_after": "There is going to come a time where you're gonna have to choose between yourself and them.",
+    "tags": [
+      "TO:OTHER(I explicitly told you)"
+    ]
+  },
+  {
+    "ep": "s05e12",
+    "line": "I told you.",
+    "prev_speaker": "I understand you",
+    "context_before": "I understand you would feel that way after what it did to you, but-- I feel that way because of what it did to you.",
+    "context_after": "The banks are crazy for this kind of thing right now.",
+    "tags": [
+      "TO:OTHER(I understand you)"
+    ]
+  },
+  {
+    "ep": "s05e12",
+    "line": "people do this kind of thing all the time.",
+    "prev_speaker": "I mean",
+    "context_before": "I mean, even I know that's not legal.",
+    "context_after": "It's a sleight of hand, nothing more.",
+    "tags": [
+      "TO:OTHER(I mean)"
+    ]
+  },
+  {
+    "ep": "s05e12",
+    "line": "can you give us a minute? Harvey Yeah? They're saying this has to do with that deal I talked to you about seven years ago.",
+    "prev_speaker": "People have tried to",
+    "context_before": "You're gonna be okay.",
+    "context_after": "And? Is there something you're not telling me? The only thing I haven't told you is that I'm gonna get him out of this, no matter what.",
+    "tags": [
+      "TO:OTHER(People have tried to)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s05e13",
+    "line": "she threatened to go to the Bar.",
+    "prev_speaker": "What else would I be",
+    "context_before": "What else would I be doing? Going to the ball game?  I don't know, Harvey,  I thought maybe you'd be doing something to get Anita Gibbs  to back off Rachel.",
+    "context_after": "It's a bullshit hypothetical that she couldn't do  until after Rachel testified.",
+    "tags": [
+      "TO:OTHER(What else would I be)"
+    ]
+  },
+  {
+    "ep": "s05e14",
+    "line": "please, not right now.",
+    "prev_speaker": "But what",
+    "context_before": "But what I've learned from recent history is,  if you really were Anita Gibbs, no matter what you had planned,  you'd be planning something else.",
+    "context_after": "I'm so busy.",
+    "tags": [
+      "TO:OTHER(But what)",
+      "REG:WIT"
+    ]
+  },
+  {
+    "ep": "s05e14",
+    "line": "I--  You know, I always talk like nothing can get to me.",
+    "prev_speaker": "He went to go and see",
+    "context_before": "- Look, is this about-- - It is about today.",
+    "context_after": "Well, it did today.",
+    "tags": [
+      "TO:OTHER(He went to go and see)"
+    ]
+  },
+  {
+    "ep": "s05e15",
+    "line": "I need your help and I need it right now.",
+    "prev_speaker": "Now",
+    "context_before": "Now, do you want me to represent you  or do you want to stick with this asshole Perkins  who didn't even show up to your hearing?  He's my lawyer.",
+    "context_after": "What's going on? Is the jury back?  No, I need to know if Stephanie Liston still works  at the U .",
+    "tags": [
+      "TO:OTHER(Now)"
+    ]
+  },
+  {
+    "ep": "s05e15",
+    "line": "Harvey, even if I did ask Stephanie  and she said yes, which she never would,  you would have to drag innocent people  through the mud to get this done.",
+    "prev_speaker": "You know damn well",
+    "context_before": "You know damn well  that I would break the law for you and Mike,  but you are asking me  to have my friend do it,  and I am not going to.",
+    "context_after": "And the Harvey I know  isn't that kind of person.",
+    "tags": [
+      "TO:OTHER(You know damn well)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s05e15",
+    "line": "what is going on?  Why are you so upset? I'm not upset.",
+    "prev_speaker": "And the Harvey I know",
+    "context_before": "[dramatic music.]",
+    "context_after": "[sighs.]",
+    "tags": [
+      "TO:OTHER(And the Harvey I know)"
+    ]
+  },
+  {
+    "ep": "s05e15",
+    "line": "listen to me, if Harvey's doing this,  it means he thinks he's going to lose.",
+    "prev_speaker": "Why",
+    "context_before": "Why aren't you doing whatever you can do help him?  I can't believe you just said that to me.",
+    "context_after": "And if he thinks he's gonna lose,  it means he is gonna lose.",
+    "tags": [
+      "TO:OTHER(Why)",
+      "REG:AUTHORITY",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s05e15",
+    "line": "you don't know what you're saying.",
+    "prev_speaker": "It says you",
+    "context_before": "It says you don't have faith in him.",
+    "context_after": "Don't I? I know I'm not a lawyer,  but isn't it true that if Mike gets found innocent,  there's no double jeopardy, but if a mistrial happens,  they might come after him again one day?  Yes, Donna, that is true,  but Harvey and I are banking that never happens.",
+    "tags": [
+      "TO:OTHER(It says you)"
+    ]
+  },
+  {
+    "ep": "s05e15",
+    "line": "I need you to start prepping a motion  for Mike to ask for a mistrial,  and we're gonna need to do it first thing in the morning.",
+    "prev_speaker": "And now",
+    "context_before": "And now I'm in the position of having to work that much harder  to get both you and your partners,  so, if you'll excuse me, I need to get back to it, Louis.",
+    "context_after": "Harvey, I don't think there's gonna be a mistrial.",
+    "tags": [
+      "TO:OTHER(And now)"
+    ]
+  },
+  {
+    "ep": "s05e15",
+    "line": "Harvey, if it were anybody other than Mike on trial  and you saw his closing,  do you think that the jury would convict him?  I don't know, Donna, but I can't afford  to be wrong about this.",
+    "prev_speaker": "No",
+    "context_before": "No, Harvey, I think he made you feel guilty,  and now you're not seeing clearly.",
+    "context_after": "Then let me as you a question:  Why aren't you talking to Dr.",
+    "tags": [
+      "TO:OTHER(No)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s05e16",
+    "line": "Mike just threw his whole life away,  and there's nothing I can do about it,  and the only way that I can accept it  is if I find out what that verdict was gonna be.",
+    "prev_speaker": "Well",
+    "context_before": "Well, I'm not gonna do that until you tell me  what that question is.",
+    "context_after": "I'll get you the name.",
+    "tags": [
+      "TO:OTHER(Well)",
+      "REG:RECOVERY"
+    ]
+  },
+  {
+    "ep": "s05e16",
+    "line": "I can't do that with Gibbs,  because what she really wants is me,  and Mike won't let me.",
+    "prev_speaker": "And what exactly is",
+    "context_before": "And what exactly is it that I do?  You get people to do things they don't want to  by giving them something else.",
+    "context_after": "And what if you give her something bigger?  What are you talking about?  I'm talking about Liberty Rail.",
+    "tags": [
+      "TO:OTHER(And what exactly is)",
+      "REG:PROTECTIVE",
+      "REG:BOUNDARY"
+    ]
+  },
+  {
+    "ep": "s05e16",
+    "line": "I am not trading you for Mike.",
+    "prev_speaker": "Two for one",
+    "context_before": "Two for one.",
+    "context_after": "Period.",
+    "tags": [
+      "TO:OTHER(Two for one)"
+    ]
+  },
+  {
+    "ep": "s05e16",
+    "line": "you don't have to do that.",
+    "prev_speaker": "So I",
+    "context_before": "So I don't want to bother you,  but I just wanted to come in and give you a little bit  of an early wedding present.",
+    "context_after": "Your mom and dad are here.",
+    "tags": [
+      "TO:OTHER(So I)"
+    ]
+  },
+  {
+    "ep": "s05e16",
+    "line": "can I talk to Rachel for a second?  Mike, you can't.",
+    "prev_speaker": "No",
+    "context_before": "Okay.",
+    "context_after": "You can't see her before the ceremony.",
+    "tags": [
+      "TO:OTHER(No)"
+    ]
+  },
+  {
+    "ep": "s05e16",
+    "line": "please.",
+    "prev_speaker": "You",
+    "context_before": "You can't see her before the ceremony.",
+    "context_after": "Okay, Donna, can you just help me put--  [laughs softly.]",
+    "tags": [
+      "TO:OTHER(You)",
+      "REG:WIT"
+    ]
+  },
+  {
+    "ep": "s06e01",
+    "line": "there's $5,000 in the cigar box on my desk.",
+    "prev_speaker": "He",
+    "context_before": "He didn't record the time.",
+    "context_after": "Get it now.",
+    "tags": [
+      "TO:OTHER(He)"
+    ]
+  },
+  {
+    "ep": "s06e02",
+    "line": "what are you doing here?  I come bearing gifts.",
+    "prev_speaker": "To hell with what",
+    "context_before": "[doors opening.]",
+    "context_after": "That's really nice, but you don't have to come over here  to check on me.",
+    "tags": [
+      "TO:OTHER(To hell with what)"
+    ]
+  },
+  {
+    "ep": "s06e02",
+    "line": "where's Harvey? I need to talk to him.",
+    "prev_speaker": "So",
+    "context_before": "So, you can sign that deal or not,  but I'm not gonna spend another second  dealing with a parasite like you.",
+    "context_after": "He's finishing up a negotiation.",
+    "tags": [
+      "TO:OTHER(So)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s06e02",
+    "line": "cancel my afternoon  and have Ray meet me downstairs in five minutes.",
+    "prev_speaker": "Okay",
+    "context_before": "Okay.",
+    "context_after": "I thought you said you weren't worried about Mike.",
+    "tags": [
+      "TO:OTHER(Okay)"
+    ]
+  },
+  {
+    "ep": "s06e03",
+    "line": "you're a genius.",
+    "prev_speaker": "And best of all",
+    "context_before": "And best of all they're not legally savvy,  and I can shove any fine print down their throats that I want.",
+    "context_after": "The only thing left for me to do  is make sure you don't shit the bed in another interview.",
+    "tags": [
+      "TO:OTHER(And best of all)"
+    ]
+  },
+  {
+    "ep": "s06e03",
+    "line": "I don't give a shit about Louis and his tenants.",
+    "prev_speaker": "And besides that",
+    "context_before": "And besides that, this is something that I want to do.",
+    "context_after": "Well, I do.",
+    "tags": [
+      "TO:OTHER(And besides that)"
+    ]
+  },
+  {
+    "ep": "s06e03",
+    "line": "I'm sorry.",
+    "prev_speaker": "What are you talking",
+    "context_before": "What are you talking about?  We said we were gonna do this together,  and I am a part of this firm as much as you are,  and when you go ahead and you do something like this  without me, it really pisses me off.",
+    "context_after": "I just wanted to prove to myself that I could not screw this up.",
+    "tags": [
+      "TO:OTHER(What are you talking)",
+      "REG:EMOTIONAL"
+    ]
+  },
+  {
+    "ep": "s06e03",
+    "line": "I don't care what you have to do.",
+    "prev_speaker": "Harvey",
+    "context_before": "Harvey, if you go to that prison now,  you'll never make it back in time for your dinner  with Nathan.",
+    "context_after": "Get him a message that I'll be an hour late,  and make sure he says it's okay.",
+    "tags": [
+      "TO:HARVEY"
+    ]
+  },
+  {
+    "ep": "s06e03",
+    "line": "I need you to get Bill Johnson at Goldman,  and I need you to do it right now.",
+    "prev_speaker": "What are you talking",
+    "context_before": "What are you talking about?  The only person who has the power to put pressure  on an asshole like Nathan Burns is a bigger asshole,  and you said it yourself, William Sutter will do anything  to get what he wants.",
+    "context_after": "- I can't.",
+    "tags": [
+      "TO:OTHER(What are you talking)"
+    ]
+  },
+  {
+    "ep": "s06e03",
+    "line": "I need somebody who can tell me  if Sutter's buying shares,  and I need it before the market opens tomorrow.",
+    "prev_speaker": "What are you talking",
+    "context_before": "- Harvey.",
+    "context_after": "Then it's a good thing Louis just rented our offices  to a bunch of traders.",
+    "tags": [
+      "TO:OTHER(What are you talking)"
+    ]
+  },
+  {
+    "ep": "s06e04",
+    "line": "you're a genius.",
+    "prev_speaker": "And the best part is",
+    "context_before": "And the best part is, you don't have to deal with  those asshole traders ever again.",
+    "context_after": "I know.",
+    "tags": [
+      "TO:OTHER(And the best part is)"
+    ]
+  },
+  {
+    "ep": "s06e05",
+    "line": "I thought you understood this isn't a joke.",
+    "prev_speaker": "Right now I wish I",
+    "context_before": "Right now I wish I was meeting any one of them.",
+    "context_after": "I know it isn't, Louis,  and that's why I haven't sent you anything I've seen so far,  because I haven't found the right thing yet.",
+    "tags": [
+      "TO:OTHER(Right now I wish I)"
+    ]
+  },
+  {
+    "ep": "s06e05",
+    "line": "please, can't we just pretend that I didn't say  what I said, like we usually do?  No, Louis, we can't, because I need to know  that you have spent at least one second contemplating  what your little outburst was about.",
+    "prev_speaker": "Can I talk to you a",
+    "context_before": "A house? What house?  I don't know anything about a house,  certainly not for a person  who doesn't have any confidence in my ability  to know what he's looking for in a given situation.",
+    "context_after": "I know what it was about.",
+    "tags": [
+      "TO:OTHER(Can I talk to you a)",
+      "REG:WIT"
+    ]
+  },
+  {
+    "ep": "s06e06",
+    "line": "I need you to help me feel my wood.",
+    "prev_speaker": "Um  I just think that",
+    "context_before": "That's it.",
+    "context_after": "Oh, dear God.",
+    "tags": [
+      "TO:OTHER(Um  I just think that)",
+      "REG:EMOTIONAL"
+    ]
+  },
+  {
+    "ep": "s06e07",
+    "line": "Paulsen's office, how can I help you?  You have a call from Danbury--  I'll accept the charges.",
+    "prev_speaker": "And something in here",
+    "context_before": "[phone rings.]",
+    "context_after": "Please hold while your call is being connected.",
+    "tags": [
+      "TO:OTHER(And something in here)"
+    ]
+  },
+  {
+    "ep": "s06e07",
+    "line": "please, I would not be coming to you  if there was another way, but I have been up all night  and there is no other way.",
+    "prev_speaker": "And",
+    "context_before": "And he's the last person in the world who would help you.",
+    "context_after": "I'll take care of it, Louis.",
+    "tags": [
+      "TO:OTHER(And)",
+      "REG:WIT"
+    ]
+  },
+  {
+    "ep": "s06e07",
+    "line": "where the hell is Louis?  He's working on what you wanted.",
+    "prev_speaker": "Well",
+    "context_before": "Well, I don't because I didn't take this deal  for that son of a bitch, I took it for my wife,  who I love, and if you ever contact her again  without my blessing,  I swear to God I will beat the shit out of you.",
+    "context_after": "Well, find him because I need him.",
+    "tags": [
+      "TO:OTHER(Well)"
+    ]
+  },
+  {
+    "ep": "s06e07",
+    "line": "I need to blow her away.",
+    "prev_speaker": "Which makes it the",
+    "context_before": "Which makes it the perfect place to get to know someone  you think you might be falling in love with.",
+    "context_after": "No, Louis, you need to let her get to know you  and let fate take care of the rest.",
+    "tags": [
+      "TO:OTHER(Which makes it the)"
+    ]
+  },
+  {
+    "ep": "s06e08",
+    "line": "it's me, I need to talk to him.",
+    "prev_speaker": "Do you",
+    "context_before": "Do you accept-- Yes.",
+    "context_after": "I don't have him, Mike, he's in court.",
+    "tags": [
+      "TO:OTHER(Do you)"
+    ]
+  },
+  {
+    "ep": "s06e08",
+    "line": "I'm on to something.",
+    "prev_speaker": "And to call Rachel",
+    "context_before": "Hey.",
+    "context_after": "I just need one second to write it down.",
+    "tags": [
+      "TO:OTHER(And to call Rachel)"
+    ]
+  },
+  {
+    "ep": "s06e09",
+    "line": "cancel all my meetings tomorrow,  and notify the parole board that Gallo's ready.",
+    "prev_speaker": "And believe you me",
+    "context_before": "[dramatic music.]",
+    "context_after": "- Harvey-- - I don't want to hear it.",
+    "tags": [
+      "TO:OTHER(And believe you me)"
+    ]
+  },
+  {
+    "ep": "s06e09",
+    "line": "I don't have a choice.",
+    "prev_speaker": "You said he was a",
+    "context_before": "You said he was a sociopath  who took pleasure from hurting people.",
+    "context_after": "That was before you knew that Mike was getting out.",
+    "tags": [
+      "TO:OTHER(You said he was a)"
+    ]
+  },
+  {
+    "ep": "s06e10",
+    "line": "can I talk to you for a second?  Well, since you asked so nicely, I'll even give you two.",
+    "prev_speaker": "Forrest  did you",
+    "context_before": "Forrest  did you actually see Leonard Bailey  kill your daughter?  Of course I didn't, but that doesn't mean--  No further questions, Your Honor.",
+    "context_after": "I have some bad news I have to give Louis,  and since he and I are finally in a good place  You want to know how to break it to him  without blowing things up again.",
+    "tags": [
+      "TO:OTHER(Forrest  did you)"
+    ]
+  },
+  {
+    "ep": "s06e10",
+    "line": "I would never go back on my word.",
+    "prev_speaker": "This is a huge",
+    "context_before": "This is a huge decision and she wants to make sure  that you're in it for the long haul.",
+    "context_after": "That's not true and you know it.",
+    "tags": [
+      "TO:OTHER(This is a huge)"
+    ]
+  },
+  {
+    "ep": "s06e11",
+    "line": "you can't leave me.",
+    "prev_speaker": "I told you once this",
+    "context_before": "I told you once this happened again,  I don't work for you anymore.",
+    "context_after": "I'm not leaving you, Harvey.",
+    "tags": [
+      "TO:OTHER(I told you once this)"
+    ]
+  },
+  {
+    "ep": "s06e11",
+    "line": "do you mind calling Dr.",
+    "prev_speaker": "You ever drop the",
+    "context_before": "You ever drop the soap in the shower?  [laughter.]",
+    "context_after": "Lipschitz for me?  Gretchen's at her grandson's play.",
+    "tags": [
+      "TO:OTHER(You ever drop the)"
+    ]
+  },
+  {
+    "ep": "s06e12",
+    "line": "You need to go to your father's funeral, Harvey.",
+    "prev_speaker": "I did",
+    "context_before": "He's got your black suit and an overnight bag,  and he's taking you to the train station.",
+    "context_after": "I can't.",
+    "tags": [
+      "TO:OTHER(I did)",
+      "REG:PROTECTIVE",
+      "REG:COUNSEL"
+    ]
+  },
+  {
+    "ep": "s06e12",
+    "line": "what are you doing here?  The question is, what are you still doing here?  I made you an 8:00 reservation to Boston,  which means you should be halfway there by now.",
+    "prev_speaker": "And if you",
+    "context_before": "[knock at door.]",
+    "context_after": "I missed my flight.",
+    "tags": [
+      "TO:OTHER(And if you)",
+      "REG:COUNSEL"
+    ]
+  },
+  {
+    "ep": "s06e12",
+    "line": "this isn't about winning.",
+    "prev_speaker": "Every day you go out",
+    "context_before": "It's what you do.",
+    "context_after": "Yes, it is.",
+    "tags": [
+      "TO:OTHER(Every day you go out)"
+    ]
+  },
+  {
+    "ep": "s06e13",
+    "line": "could I talk to you for a second?  The Donna: Of course you can.",
+    "prev_speaker": "You really can tell",
+    "context_before": "You're telling me.",
+    "context_after": "What do you need, hot pants?  What--what is that?  It's a device called The Donna  that Benjamin's working on, and it's awesome.",
+    "tags": [
+      "TO:OTHER(You really can tell)"
+    ]
+  },
+  {
+    "ep": "s06e13",
+    "line": "hey, how did you like the--  It's a no.",
+    "prev_speaker": "What are you gonna",
+    "context_before": "What are you gonna do?  I'll figure something out.",
+    "context_after": "What do you mean it's a no?  I mean it's a cute joke, but I'm not interested  in pursuing it as a business opportunity.",
+    "tags": [
+      "TO:OTHER(What are you gonna)",
+      "REG:BOUNDARY"
+    ]
+  },
+  {
+    "ep": "s06e14",
+    "line": "you're never gonna believe  what Louis just asked me.",
+    "prev_speaker": "Then why",
+    "context_before": "'Cause after I get these people on board,  that's exactly what we're gonna have to do.",
+    "context_after": "The Donna: Give me three guesses.",
+    "tags": [
+      "TO:OTHER(Then why)"
+    ]
+  },
+  {
+    "ep": "s06e14",
+    "line": "that's great.",
+    "prev_speaker": "Then why",
+    "context_before": "- That is not--  Louis, if this woman needs to know  she's special to us, there's more than one way  to do it and Harvey's not the only one you can bring.",
+    "context_after": "But this meeting is tomorrow  and I don't even know these new associates yet.",
+    "tags": [
+      "TO:OTHER(Then why)"
+    ]
+  },
+  {
+    "ep": "s06e15",
+    "line": "whatever it is, I don't have time right now.",
+    "prev_speaker": "Louis needs to see",
+    "context_before": "Louis needs to see you right away.",
+    "context_after": "Well, you need to make time.",
+    "tags": [
+      "TO:OTHER(Louis needs to see)"
+    ]
+  },
+  {
+    "ep": "s06e15",
+    "line": "as good as this product is,  I'm telling you--as one business person to another--  you have no credibility to do this.",
+    "prev_speaker": "Then maybe you should",
+    "context_before": "Then maybe you should take none of it.",
+    "context_after": "Believe me, these are the best terms you're gonna get.",
+    "tags": [
+      "TO:OTHER(Then maybe you should)"
+    ]
+  },
+  {
+    "ep": "s06e16",
+    "line": "this is exactly what I need.",
+    "prev_speaker": "But Stu says we can",
+    "context_before": "But Stu says we can negotiate  with whoever holds the patent,  get them to give us an exclusion,  and we'll still be able to move forward with The Donna.",
+    "context_after": "What do you mean?  Tara and I got into a huge fight.",
+    "tags": [
+      "TO:OTHER(But Stu says we can)"
+    ]
+  },
+  {
+    "ep": "s06e16",
+    "line": "listen to me.",
+    "prev_speaker": "I know you",
+    "context_before": "I know you, and if this is gonna make you go in there  and blow this thing up, I can't have that.",
+    "context_after": "I may be losing the closest woman in my life,  but you are the second closest.",
+    "tags": [
+      "TO:OTHER(I know you)",
+      "REG:AUTHORITY"
+    ]
+  },
+  {
+    "ep": "s06e16",
+    "line": "we're talking about a lot of money.",
+    "prev_speaker": "With a special",
+    "context_before": "That's not good enough.",
+    "context_after": "I don't care about the money, Stu.",
+    "tags": [
+      "TO:OTHER(With a special)"
+    ]
+  },
+  {
+    "ep": "s07e01",
+    "line": "about the other night.",
+    "prev_speaker": "With that",
+    "context_before": "I've been waiting for you.",
+    "context_after": "I know you said you wanted more, but before you say anything--  - I want to be a partner.",
+    "tags": [
+      "TO:OTHER(With that)"
+    ]
+  },
+  {
+    "ep": "s07e01",
+    "line": "I don't mean to insult you,  but you're not even a lawyer.",
+    "prev_speaker": "I figured out what I",
+    "context_before": "I figured out what I want,  and I want to be a partner at this firm.",
+    "context_after": "Good, because my being a partner isn't about the law.",
+    "tags": [
+      "TO:OTHER(I figured out what I)"
+    ]
+  },
+  {
+    "ep": "s07e01",
+    "line": "do you have a minute? I need your help.",
+    "prev_speaker": "Me too",
+    "context_before": "[Footsteps approaching.]",
+    "context_after": "Of course.",
+    "tags": [
+      "TO:OTHER(Me too)"
+    ]
+  },
+  {
+    "ep": "s07e01",
+    "line": "I have never seen Louis like this before.",
+    "prev_speaker": "He was abusive and",
+    "context_before": "He was abusive and cruel and ugly.",
+    "context_after": "Rachel, if what you're saying is true,  then we need to figure out why,  because with Louis, there's always a reason--  Tara broke up with him last night.",
+    "tags": [
+      "TO:OTHER(He was abusive and)"
+    ]
+  },
+  {
+    "ep": "s07e01",
+    "line": "before you leave, can I talk to you for a second?  What is it now? We're running low  on coffee filters? Can't find the sweet 'n low?  Or is Louis finally being sued for being an asshole?  You want to tell me what's going on,  or you want to keep firing your pistol  in the wrong direction?  I'm sorry, Gretchen.",
+    "prev_speaker": "I love you too",
+    "context_before": "[Chuckles.]",
+    "context_after": "I am just sick and tired of being everyone's go-to  and not getting what I ask for.",
+    "tags": [
+      "TO:OTHER(I love you too)",
+      "REG:EMOTIONAL"
+    ]
+  },
+  {
+    "ep": "s07e01",
+    "line": "I can't just ram  every decision down his throat.",
+    "prev_speaker": "Then walk the hell",
+    "context_before": "Then walk the hell down to Louis' office  and tell him I'm a partner.",
+    "context_after": "Every decision?  You haven't even told him that you're stepping  into Jessica's shoes yet.",
+    "tags": [
+      "TO:OTHER(Then walk the hell)"
+    ]
+  },
+  {
+    "ep": "s07e01",
+    "line": "Harvey, you think I'm asking for charity, I'm not.",
+    "prev_speaker": "And if I were a",
+    "context_before": "And if I were a partner, I would tell you that  the right time was yesterday.",
+    "context_after": "I am asking for you to make official  what I have been doing for years anyway,  which is giving you advice, like you need to step  the hell up and tell Louis that you're in charge,  and right this second, you're either gonna take that advice,  or you're not, but it is time  that you recognize me  for what I do.",
+    "tags": [
+      "TO:OTHER(And if I were a)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s07e01",
+    "line": "unless it's an emergency--  It is an emergency.",
+    "prev_speaker": "Those associates are",
+    "context_before": "Those associates are mine,  and the only way you're ever gonna get them  is if you pry them from my cold, dead hands.",
+    "context_after": "Harvey, I need to know what you're doing about me.",
+    "tags": [
+      "TO:OTHER(Those associates are)"
+    ]
+  },
+  {
+    "ep": "s07e01",
+    "line": "right this second is not the time.",
+    "prev_speaker": "Harvey",
+    "context_before": "Harvey, I need to know what you're doing about me.",
+    "context_after": "It is the time, because if somebody doesn't  do something about Louis soon,  this firm is gonna end up being sued by our own associates.",
+    "tags": [
+      "TO:HARVEY"
+    ]
+  },
+  {
+    "ep": "s07e01",
+    "line": "asked for a seat at the table,  and I gave her one, because when she worked for me,  she had my back,  and would kill anyone coming for me,  and when she worked for you, she did the same exact thing,  not to mention if she left tomorrow,  this firm would be a pile of rubble within 15 minutes.",
+    "prev_speaker": "And if you think",
+    "context_before": "- Harvey, what the hell  kind of shit did you pull? Shut up and listen, Louis.",
+    "context_after": "So then give her a raise.",
+    "tags": [
+      "TO:OTHER(And if you think)"
+    ]
+  },
+  {
+    "ep": "s07e01",
+    "line": "for the record, my balls  are within normal parameters.",
+    "prev_speaker": "Okay",
+    "context_before": "- What does that even mean?  I think we both know what that means.",
+    "context_after": "So you just come down here to give me shit,  or was there maybe another reason?  What other reason would I have?  I can't think of a single one.",
+    "tags": [
+      "TO:OTHER(Okay)"
+    ]
+  },
+  {
+    "ep": "s07e01",
+    "line": "It's about time.",
+    "prev_speaker": "And from now on",
+    "context_before": "Harvey's created a monster, hasn't he?  You have no idea.",
+    "context_after": "[Soft upbeat music.]",
+    "tags": [
+      "TO:OTHER(And from now on)"
+    ]
+  },
+  {
+    "ep": "s07e02",
+    "line": "asked for a seat at the table,  and I gave her one.",
+    "prev_speaker": "You",
+    "context_before": "I'm not giving up my associates!  That's enough.",
+    "context_after": "You don't make her goddamn senior partner.",
+    "tags": [
+      "TO:OTHER(You)"
+    ]
+  },
+  {
+    "ep": "s07e03",
+    "line": "I need to talk to you about something.",
+    "prev_speaker": "This",
+    "context_before": "[soft dramatic music.]",
+    "context_after": "About what?  About the fact that I'm pissed off.",
+    "tags": [
+      "TO:OTHER(This)"
+    ]
+  },
+  {
+    "ep": "s07e04",
+    "line": "said you needed my help,  soI gave it to you.",
+    "prev_speaker": "Mike",
+    "context_before": "I am.",
+    "context_after": "Thanks, Robin.",
+    "tags": [
+      "TO:MIKE"
+    ]
+  },
+  {
+    "ep": "s07e04",
+    "line": "I apologized to her.",
+    "prev_speaker": "Rachel",
+    "context_before": "- What do you mean,  it wasn't her? It had to be her.",
+    "context_after": "I threatened her, and I cajoled her.",
+    "tags": [
+      "TO:RACHEL"
+    ]
+  },
+  {
+    "ep": "s07e04",
+    "line": "you haven't let me down in 12 years,  and you didn't start now.",
+    "prev_speaker": "You had faith in me",
+    "context_before": "You had faith in me,  and I never found out who it was--I let you down.",
+    "context_after": "Besides, whoever it was  doesn't matter anymore.",
+    "tags": [
+      "TO:OTHER(You had faith in me)"
+    ]
+  },
+  {
+    "ep": "s07e05",
+    "line": "I need you to draw up some paperwork  for a new employee.",
+    "prev_speaker": "But what I",
+    "context_before": "But what I didn't tell you was that after that  he changed his mind.",
+    "context_after": "I'll get to it first thing in the morning.",
+    "tags": [
+      "TO:OTHER(But what I)"
+    ]
+  },
+  {
+    "ep": "s07e05",
+    "line": "I gave her my word I'd do this  if she came through, she's gonna come through,  and I already broke my word to her once.",
+    "prev_speaker": "I know people",
+    "context_before": "I know people, and I'm telling you it's reckless  to hire someone who betrayed her employer  the first chance she got.",
+    "context_after": "Well, then maybe you shouldn't promise a job  at a law firm to someone who isn't a lawyer.",
+    "tags": [
+      "TO:OTHER(I know people)",
+      "REG:PREEMPTIVE"
+    ]
+  },
+  {
+    "ep": "s07e05",
+    "line": "before you go home tonight,  I need you to cut me a check for Holly.",
+    "prev_speaker": "Thanks",
+    "context_before": "You're welcome, Mike.",
+    "context_after": "What do you mean? I'm gonna put her on the payroll.",
+    "tags": [
+      "TO:OTHER(Thanks)"
+    ]
+  },
+  {
+    "ep": "s07e06",
+    "line": "it's important.",
+    "prev_speaker": "Harvey",
+    "context_before": "Harvey, it's gonna have to wait.",
+    "context_after": "Frank Gallo left a message for you a few minutes ago.",
+    "tags": [
+      "TO:HARVEY"
+    ]
+  },
+  {
+    "ep": "s07e06",
+    "line": "are you okay?  You look like you just saw a ghost.",
+    "prev_speaker": "Me too",
+    "context_before": "Me too.",
+    "context_after": "I don't know.",
+    "tags": [
+      "TO:OTHER(Me too)",
+      "REG:EMOTIONAL"
+    ]
+  },
+  {
+    "ep": "s07e06",
+    "line": "you have a minute?  Louis, if you're here to berate me for what I said  to Stephanie, then, no, I don't.",
+    "prev_speaker": "Now",
+    "context_before": "[dramatic music.]",
+    "context_after": "Uh, that is not why I'm here.",
+    "tags": [
+      "TO:OTHER(Now)"
+    ]
+  },
+  {
+    "ep": "s07e07",
+    "line": "I want you to pull whatever strings you have to  to get the Reinsdorf trial moved up to tomorrow.",
+    "prev_speaker": "So",
+    "context_before": "I'm just here to back you up.",
+    "context_after": "I'll get right on it.",
+    "tags": [
+      "TO:OTHER(So)"
+    ]
+  },
+  {
+    "ep": "s07e07",
+    "line": "I went into his office in good faith  and it took him less than 30 seconds  to wave his title in my face.",
+    "prev_speaker": "And one more",
+    "context_before": "What? Harvey,  Jessica said to bury the hatchet,  not stick it in Louis's back.",
+    "context_after": "What does that have to do with putting the firm's interest  above your ego?  Because, when I brought up a legitimate issue  with his strategy, he shot me down for no other reason  than it came out of my mouth.",
+    "tags": [
+      "TO:OTHER(And one more)"
+    ]
+  },
+  {
+    "ep": "s07e07",
+    "line": "I tried talking to her.",
+    "prev_speaker": "The least you can do",
+    "context_before": "The least you can do is talk to her  before you do something like this.",
+    "context_after": "But it doesn't matter.",
+    "tags": [
+      "TO:OTHER(The least you can do)"
+    ]
+  },
+  {
+    "ep": "s07e08",
+    "line": "Paulson yet.",
+    "prev_speaker": "Which is why I",
+    "context_before": "Which is why I can't believe that there's not a, uh,  a Mr.",
+    "context_after": "- Well.",
+    "tags": [
+      "TO:OTHER(Which is why I)"
+    ]
+  },
+  {
+    "ep": "s07e09",
+    "line": "even if I said yes,  last time Louis did that, it made him sick.",
+    "prev_speaker": "But either way",
+    "context_before": "But either way, it's gotta be him.",
+    "context_after": "He's not gonna wanna do that again.",
+    "tags": [
+      "TO:OTHER(But either way)"
+    ]
+  },
+  {
+    "ep": "s07e09",
+    "line": "what are you doing here?  I'm ready to tell you about what happened  on my date the other night.",
+    "prev_speaker": "Because I need to do",
+    "context_before": "Because I need to do something first.",
+    "context_after": "Well, Mike's still at the office  and we've got the place all to ourselves, so  Do you remember at Harvey's mock trial  a couple years ago when Louis asked if I loved Harvey?  How could I not?  And he also asked me about my last serious boyfriend  and what broke us up.",
+    "tags": [
+      "TO:OTHER(Because I need to do)"
+    ]
+  },
+  {
+    "ep": "s07e10",
+    "line": "doesn't have to testify at all.",
+    "prev_speaker": "The mock",
+    "context_before": "- What do you mean it's off? - Louis came up  with a work product exemption argument.",
+    "context_after": "You got the judge to agree to that already?  He didn't agree.",
+    "tags": [
+      "TO:OTHER(The mock)"
+    ]
+  },
+  {
+    "ep": "s07e10",
+    "line": "Paulsen's work on it is covered under privilege,  and this entire case should be thrown out right now.",
+    "prev_speaker": "Your Honor",
+    "context_before": "Your Honor, Clifford Danner has nothing to do  with Elmont Investments.",
+    "context_after": "And if you'll pardon my French,  that is the biggest load of bullshit I have ever heard.",
+    "tags": [
+      "TO:OTHER(Your Honor)"
+    ]
+  },
+  {
+    "ep": "s07e10",
+    "line": "hey, how'd it go in court?  I would have asked you earlier, but I had a ton of doc review.",
+    "prev_speaker": "But on one condition",
+    "context_before": "I am.",
+    "context_after": "I really don't want to talk about it right now, Louis.",
+    "tags": [
+      "TO:OTHER(But on one condition)"
+    ]
+  },
+  {
+    "ep": "s07e10",
+    "line": "there was no way we could have seen that coming.",
+    "prev_speaker": "And then he put me on",
+    "context_before": "And then he put me on that stand,  and he came after me just like I was afraid he would.",
+    "context_after": "What we could have seen coming was, if he got me up there,  he would twist the facts, and he would imply ugly things.",
+    "tags": [
+      "TO:OTHER(And then he put me on)"
+    ]
+  },
+  {
+    "ep": "s07e10",
+    "line": "we need a transcript  to make sure what Mike's saying is true.",
+    "prev_speaker": "He held up the",
+    "context_before": "He held up the newspaper as if he was about to enter it,  but then he said \"document\"  and held up a folder with the other hand.",
+    "context_after": "I don't need a transcript, Harvey.",
+    "tags": [
+      "TO:OTHER(He held up the)"
+    ]
+  },
+  {
+    "ep": "s07e10",
+    "line": "you have a minute?  A minute for what, Louis?  So you can tell me how it wasn't your fault  that you didn't prepare me to be on the stand?  A minute to say I'm sorry.",
+    "prev_speaker": "Not like this",
+    "context_before": "[knock at door.]",
+    "context_after": "You were right, Donna.",
+    "tags": [
+      "TO:OTHER(Not like this)",
+      "REG:EMOTIONAL"
+    ]
+  },
+  {
+    "ep": "s08e01",
+    "line": "do you have a minute?  Does this have to do with the associates  we're letting go? - It does.",
+    "prev_speaker": "But",
+    "context_before": "But there's no way I'm dropping my business.",
+    "context_after": "And since I understand you'll be doing  exit interviews with them,  I thought you should know who's going.",
+    "tags": [
+      "TO:OTHER(But)"
+    ]
+  },
+  {
+    "ep": "s08e01",
+    "line": "how's it gonna look  to the rest of the world if I step down?  I'll tell you how.",
+    "prev_speaker": "And now that",
+    "context_before": "You've proved you can do it, and you may not  want to admit it, but  you're getting tired of just sitting up there,  enjoying the view.",
+    "context_after": "Like no other firm can touch us.",
+    "tags": [
+      "TO:OTHER(And now that)"
+    ]
+  },
+  {
+    "ep": "s08e03",
+    "line": "Paulsen saw to that in your new lease.",
+    "prev_speaker": "Of",
+    "context_before": "- No, it's not.",
+    "context_after": "Well, Donna has a way of getting what she wants.",
+    "tags": [
+      "TO:OTHER(Of)"
+    ]
+  },
+  {
+    "ep": "s08e03",
+    "line": "I'm in the middle of something.",
+    "prev_speaker": "Harvey",
+    "context_before": "Harvey.",
+    "context_after": "I can see that.",
+    "tags": [
+      "TO:HARVEY"
+    ]
+  },
+  {
+    "ep": "s08e03",
+    "line": "Paulsen.",
+    "prev_speaker": "I just thought",
+    "context_before": "I just thought, \"What would Mike do?\"  [rousing music.]",
+    "context_after": "- David Fox.",
+    "tags": [
+      "TO:OTHER(I just thought)"
+    ]
+  },
+  {
+    "ep": "s08e04",
+    "line": "I might be missing Mike, but I'm not Mike,  and I have a meeting in an hour.",
+    "prev_speaker": "That cleaning",
+    "context_before": "That cleaning woman's case was good for you,  and even though Mike's not here,  I think we should keep doing them.",
+    "context_after": "But if you want to take on a pro Bono, knock yourself out.",
+    "tags": [
+      "TO:OTHER(That cleaning)"
+    ]
+  },
+  {
+    "ep": "s08e05",
+    "line": "what if it is me? - Louis, right now  we don't even know if there's a problem at all,  so I suggest you cross that bridge  when you come to it.",
+    "prev_speaker": "Well",
+    "context_before": "Well, has it occurred to you that the reason  you were never worried is that there's no reason  to be worried? - Except Sheila is worried,  and now it's in my head.",
+    "context_after": "And if you do, and you need someone  to talk about it with, I'll be here.",
+    "tags": [
+      "TO:OTHER(Well)"
+    ]
+  },
+  {
+    "ep": "s08e05",
+    "line": "no offense, but a cup of coffee  is the last thing I need right now.",
+    "prev_speaker": "Thank you",
+    "context_before": "Thank you, Donna.",
+    "context_after": "Among other things, I'm trying to give up caffeine.",
+    "tags": [
+      "TO:OTHER(Thank you)"
+    ]
+  },
+  {
+    "ep": "s08e06",
+    "line": "I'd love to say yes, but I'm slammed right now.",
+    "prev_speaker": "Exactly",
+    "context_before": "Exactly.",
+    "context_after": "and a charity like this deserves  more time than I can offer.",
+    "tags": [
+      "TO:OTHER(Exactly)"
+    ]
+  },
+  {
+    "ep": "s08e06",
+    "line": "I have to ask.",
+    "prev_speaker": "I appreciate you",
+    "context_before": "I'll find somebody else.",
+    "context_after": "Given how it went  the last time you took on a pro Bono,  have you cleared this with Robert?  I'd hate to see him bite your head off a second time.",
+    "tags": [
+      "TO:OTHER(I appreciate you)"
+    ]
+  },
+  {
+    "ep": "s08e06",
+    "line": "just the person I was about to come see.",
+    "prev_speaker": "And I need to be at",
+    "context_before": "We're meeting them in an hour.",
+    "context_after": "- Oh, is that a fact? - You seem perturbed.",
+    "tags": [
+      "TO:OTHER(And I need to be at)"
+    ]
+  },
+  {
+    "ep": "s08e06",
+    "line": "you two got off on the wrong foot,  and I know for a fact she wants to fix it.",
+    "prev_speaker": "Because Samantha just",
+    "context_before": "Because Samantha just asked  to represent my charity and there's no way  she would have done that if she hadn't  heard about it from you.",
+    "context_after": "And how do you know that?  Because when I came to her with this  She said it'll kill two birds with one stone,  and one of those birds was making good with you.",
+    "tags": [
+      "TO:OTHER(Because Samantha just)",
+      "REG:PREEMPTIVE"
+    ]
+  },
+  {
+    "ep": "s08e06",
+    "line": "she's serious about this.",
+    "prev_speaker": "That Samantha",
+    "context_before": "That Samantha insisted I get  before she took on your charity.",
+    "context_after": "Okay, Alex, I'll give her a chance.",
+    "tags": [
+      "TO:OTHER(That Samantha)"
+    ]
+  },
+  {
+    "ep": "s08e06",
+    "line": "I cannot thank you enough for your donation.",
+    "prev_speaker": "All right",
+    "context_before": "I don't think we should eat anymore masala.",
+    "context_after": "You're already making such a difference.",
+    "tags": [
+      "TO:OTHER(All right)"
+    ]
+  },
+  {
+    "ep": "s08e06",
+    "line": "if I do what you're asking  I might as well tell my clients they can't trust my advice.",
+    "prev_speaker": "Because",
+    "context_before": "Because you're taking money away from people who need it.",
+    "context_after": "And my advice to you is get your head on straight.",
+    "tags": [
+      "TO:OTHER(Because)"
+    ]
+  },
+  {
+    "ep": "s08e06",
+    "line": "he's married.",
+    "prev_speaker": "Looks like you might",
+    "context_before": "Looks like you might be becoming more than that.",
+    "context_after": "He has a son.",
+    "tags": [
+      "TO:OTHER(Looks like you might)"
+    ]
+  },
+  {
+    "ep": "s08e08",
+    "line": "whatever it is, I'm kind of busy.",
+    "prev_speaker": "Hey",
+    "context_before": "Hey, Samantha.",
+    "context_after": "I can see that.",
+    "tags": [
+      "TO:OTHER(Hey)"
+    ]
+  },
+  {
+    "ep": "s08e08",
+    "line": "just let me do what I do.",
+    "prev_speaker": "Samantha",
+    "context_before": "Samantha.",
+    "context_after": "Let me get this straight.",
+    "tags": [
+      "TO:OTHER(Samantha)"
+    ]
+  },
+  {
+    "ep": "s08e08",
+    "line": "told you.",
+    "prev_speaker": "I just hope you know",
+    "context_before": "'Cause you're not getting on that plane.",
+    "context_after": "Damn right, Donna told me.",
+    "tags": [
+      "TO:OTHER(I just hope you know)"
+    ]
+  },
+  {
+    "ep": "s08e10",
+    "line": "if this is about us not consulting you,  - it was a name partner decision.",
+    "prev_speaker": "You",
+    "context_before": "- I need to say something  about this trial, and I need you to hear me.",
+    "context_after": "- It's not about that, Harvey.",
+    "tags": [
+      "TO:OTHER(You)"
+    ]
+  },
+  {
+    "ep": "s08e10",
+    "line": "even if I said yes  Harvey and Robert would never vote  to make me managing partner.",
+    "prev_speaker": "Because we",
+    "context_before": "Because we don't have a lot of time.",
+    "context_after": "You leave that to me.",
+    "tags": [
+      "TO:OTHER(Because we)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s08e11",
+    "line": "this coffee's cold.",
+    "prev_speaker": "Good morning",
+    "context_before": "Coffee?  Don't mind if I do.",
+    "context_after": "Well, it was hot two hours ago.",
+    "tags": [
+      "TO:OTHER(Good morning)"
+    ]
+  },
+  {
+    "ep": "s08e11",
+    "line": "I cannot let my clients down.",
+    "prev_speaker": "Who the hell decided",
+    "context_before": "Who the hell decided that?  You did when you put it in the bylaws  that they're the purview of the managing partner.",
+    "context_after": "It is just not in me.",
+    "tags": [
+      "TO:OTHER(Who the hell decided)"
+    ]
+  },
+  {
+    "ep": "s08e11",
+    "line": "told you to delegate, didn't she?  No, not--maybe.",
+    "prev_speaker": "The point is",
+    "context_before": "The point is, is that Thomas Kessler  has a contract that he needs to get out of  and you are the best man for the job.",
+    "context_after": "Yeah, she did.",
+    "tags": [
+      "TO:OTHER(The point is)"
+    ]
+  },
+  {
+    "ep": "s08e12",
+    "line": "I'm giving you a direct order.",
+    "prev_speaker": "Or",
+    "context_before": "Or don't, either way I'm going out  because I've earned it.",
+    "context_after": "So you can follow it or don't but if you don't,  don't you ever tell me that you feel responsible  for putting me in this position again.",
+    "tags": [
+      "TO:OTHER(Or)"
+    ]
+  },
+  {
+    "ep": "s08e12",
+    "line": "I just got to tell ya,  sometimes you don't know what you've been missing  until you have it.",
+    "prev_speaker": "Thank you Thomas for",
+    "context_before": "Thank you Thomas for an amazing night.",
+    "context_after": "So, look, I don't want to wait three days to call you  or whatever the rules are.",
+    "tags": [
+      "TO:OTHER(Thank you Thomas for)"
+    ]
+  },
+  {
+    "ep": "s08e13",
+    "line": "we need to talk.",
+    "prev_speaker": "There you are",
+    "context_before": "There you are.",
+    "context_after": "Okay, about what?  For starters, where have you been?  I've been looking for you all morning.",
+    "tags": [
+      "TO:OTHER(There you are)"
+    ]
+  },
+  {
+    "ep": "s08e13",
+    "line": "Paulsen I think is her name, right?  Be very careful what you say next and who you threaten.",
+    "prev_speaker": "Because first you try",
+    "context_before": "- Yeah, you keep saying that,  but I did some digging  and on the very same day the Doyle Shoes trades were made  a woman, who is now your COO,  signed into our visitor's log to meet with Stu.",
+    "context_after": "Looks like I touched a nerve.",
+    "tags": [
+      "TO:OTHER(Because first you try)"
+    ]
+  },
+  {
+    "ep": "s08e13",
+    "line": "good, let's grab a coffee.",
+    "prev_speaker": "You mind me asking",
+    "context_before": "You mind me asking what is going on with Samantha?  Louis, if you think your people  have something that's going on,  you should probably ask them yourself.",
+    "context_after": "Sure.",
+    "tags": [
+      "TO:OTHER(You mind me asking)"
+    ]
+  },
+  {
+    "ep": "s08e13",
+    "line": "are you calling to get together again tonight,  because that would be three nights in a row,  and we might find ourselves in trouble.",
+    "prev_speaker": "Right on time",
+    "context_before": "[cell phone buzzing.]",
+    "context_after": "I'm not calling to get together.",
+    "tags": [
+      "TO:OTHER(Right on time)"
+    ]
+  },
+  {
+    "ep": "s08e14",
+    "line": "can I talk to you a second?  Does this have something to do with Lipschitz?  Yeah.",
+    "prev_speaker": "Guess",
+    "context_before": "Guess I'm saying if you're not willing to have her back,  think of it as having mine.",
+    "context_after": "I have an idea, but it involves  going to his patient behind his back  and threatening to put him on the stand.",
+    "tags": [
+      "TO:OTHER(Guess)"
+    ]
+  },
+  {
+    "ep": "s08e15",
+    "line": "please.",
+    "prev_speaker": "Oh",
+    "context_before": "Oh, my God, Mom, you were hot.",
+    "context_after": "I was smokin' hot.",
+    "tags": [
+      "TO:OTHER(Oh)",
+      "REG:WIT"
+    ]
+  },
+  {
+    "ep": "s08e15",
+    "line": "if you really like him, I am happy for you.",
+    "prev_speaker": "I wanted to tell you",
+    "context_before": "I wanted to tell you because,  even though it's really early on, I--I really like him.",
+    "context_after": "You're never gonna believe this, but--[chuckles.]",
+    "tags": [
+      "TO:OTHER(I wanted to tell you)"
+    ]
+  },
+  {
+    "ep": "s08e15",
+    "line": "I was just thinking about you.",
+    "prev_speaker": "So what am I supposed",
+    "context_before": "[phone buzzing.]",
+    "context_after": "I was just thinking about you too, Mom.",
+    "tags": [
+      "TO:OTHER(So what am I supposed)"
+    ]
+  },
+  {
+    "ep": "s08e15",
+    "line": "your father has never let me down.",
+    "prev_speaker": "Even though it",
+    "context_before": "Even though it didn't work out?  Well, how could I have known that?  Because dad let you down before.",
+    "context_after": "Not in the ways that matter.",
+    "tags": [
+      "TO:OTHER(Even though it)"
+    ]
+  },
+  {
+    "ep": "s08e15",
+    "line": "I promise you,  we are going to Paris.",
+    "prev_speaker": "I forgot you can do",
+    "context_before": "I forgot you can do that.",
+    "context_after": "I understand.",
+    "tags": [
+      "TO:OTHER(I forgot you can do)"
+    ]
+  },
+  {
+    "ep": "s08e15",
+    "line": "you are not responsible for anything, okay?    So what are you going to do?  I'll tell you what I'm not gonna do.",
+    "prev_speaker": "And why are you the",
+    "context_before": "And why are you the one telling me this and not my lawyer?  'Cause Alex is trying to fix it,  and so is Harvey but I don't know that they're going to be  able to fix it and you said that your other offer expires  this morning and I don't wanna be responsible.",
+    "context_after": "Let the company that I spent my life nurturing  get taken out at the knees  just when it's starting to walk.",
+    "tags": [
+      "TO:OTHER(And why are you the)",
+      "REG:EMOTIONAL"
+    ]
+  },
+  {
+    "ep": "s08e15",
+    "line": "told me.",
+    "prev_speaker": "Well",
+    "context_before": "- You know? - You're damn right I know.",
+    "context_after": "And she wouldn't have had to  if you hadn't kept this from me.",
+    "tags": [
+      "TO:OTHER(Well)"
+    ]
+  },
+  {
+    "ep": "s08e15",
+    "line": "Simon fired me.",
+    "prev_speaker": "Whatever it is",
+    "context_before": "- Harvey.",
+    "context_after": "as he had every right to do because I trusted you  to keep your mouth shut and you didn't.",
+    "tags": [
+      "TO:OTHER(Whatever it is)"
+    ]
+  },
+  {
+    "ep": "s08e16",
+    "line": "you okay? You sound upset.",
+    "prev_speaker": "You busy",
+    "context_before": "You busy tonight?  Actually, I think I'm gonna work late.",
+    "context_after": "I didn't know you were gonna put out a press release  when you took that other offer.",
+    "tags": [
+      "TO:OTHER(You busy)",
+      "REG:EMOTIONAL"
+    ]
+  },
+  {
+    "ep": "s08e16",
+    "line": "the risk you run  when you're known as a nice guy is,  people think they can push you around.",
+    "prev_speaker": "You busy",
+    "context_before": "I didn't know you were gonna put out a press release  when you took that other offer.",
+    "context_after": "I had to show them that if you push me,  I'm gonna push right back, and I'm sorry that resulted  in your firm getting fired.",
+    "tags": [
+      "TO:OTHER(You busy)"
+    ]
+  },
+  {
+    "ep": "s08e16",
+    "line": "told him.",
+    "prev_speaker": "Well",
+    "context_before": "We're way past that, Louis.",
+    "context_after": "What? How could she even know?  Because I told her.",
+    "tags": [
+      "TO:OTHER(Well)"
+    ]
+  },
+  {
+    "ep": "s08e16",
+    "line": "was the one who told you about Simon  but I want you to say it was me.",
+    "prev_speaker": "You said it was about",
+    "context_before": "- What's going on? - It's simple.",
+    "context_after": "You want me to lie.",
+    "tags": [
+      "TO:OTHER(You said it was about)"
+    ]
+  },
+  {
+    "ep": "s09e01",
+    "line": "\u00c2\u00a0  I know.",
+    "prev_speaker": "I was worth the wait",
+    "context_before": "[chuckles.]",
+    "context_after": "\u00c2\u00a0  [whispering.]",
+    "tags": [
+      "TO:OTHER(I was worth the wait)",
+      "REG:PREEMPTIVE"
+    ]
+  },
+  {
+    "ep": "s09e01",
+    "line": "I didn't know that you two were still together.",
+    "prev_speaker": "Oh",
+    "context_before": "Oh, my God.",
+    "context_after": "- I would never have-- - Listen to me.",
+    "tags": [
+      "TO:OTHER(Oh)"
+    ]
+  },
+  {
+    "ep": "s09e01",
+    "line": "you don't have to.",
+    "prev_speaker": "I just asked if I",
+    "context_before": "I just asked if I could be the one to tell you  because it would give me a chance to say something  that I need to say.",
+    "context_after": "I put myself over the firm, and it cost you dearly.",
+    "tags": [
+      "TO:OTHER(I just asked if I)"
+    ]
+  },
+  {
+    "ep": "s09e01",
+    "line": "he didn't just leave because of you.",
+    "prev_speaker": "I am so sorry",
+    "context_before": "I am so sorry.",
+    "context_after": "What?  [melancholy piano music.]",
+    "tags": [
+      "TO:OTHER(I am so sorry)"
+    ]
+  },
+  {
+    "ep": "s09e02",
+    "line": "we can't let that happen.",
+    "prev_speaker": "Wait",
+    "context_before": "Wait, what are you talking about?  She just asked me to schedule an exit interview with Thomas.",
+    "context_after": "- Thomas won't lie for us again.",
+    "tags": [
+      "TO:OTHER(Wait)"
+    ]
+  },
+  {
+    "ep": "s09e02",
+    "line": "he gave me his word.",
+    "prev_speaker": "SoThomas is coming",
+    "context_before": "SoThomas is coming here today?  Because Faye's gonna be asking about that interview,  and we need him to have signed that engagement letter.",
+    "context_after": "Great, then that means that he'll be here.",
+    "tags": [
+      "TO:OTHER(SoThomas is coming)"
+    ]
+  },
+  {
+    "ep": "s09e02",
+    "line": "there you are.",
+    "prev_speaker": "But this",
+    "context_before": "[sighs.]",
+    "context_after": "I was looking all over for you.",
+    "tags": [
+      "TO:OTHER(But this)"
+    ]
+  },
+  {
+    "ep": "s09e02",
+    "line": "what can I do for you?  You can listen.",
+    "prev_speaker": "She",
+    "context_before": "'Cause I'm gonna tell her the truth.",
+    "context_after": "And hopefully understand.",
+    "tags": [
+      "TO:OTHER(She)"
+    ]
+  },
+  {
+    "ep": "s09e03",
+    "line": "what's going on?  I didn't know how to make sense of you  taking my side with Louis when you didn't agree with me.",
+    "prev_speaker": "Did you also know",
+    "context_before": "Did you also know that's the first night  we haven't spent together since--  I did.",
+    "context_after": "What do you mean? I thought you would like that.",
+    "tags": [
+      "TO:OTHER(Did you also know)"
+    ]
+  },
+  {
+    "ep": "s09e03",
+    "line": "good, I was hoping you were in,  because I need a little help.",
+    "prev_speaker": "And if you do think",
+    "context_before": "And if you do think about that?  I think they're everything to me  and I don't want to go anywhere.",
+    "context_after": "Sure, Faye, with what?  You want me to tell Alex Williams  he's an associate now?  I take it you don't like my decision regarding Louis.",
+    "tags": [
+      "TO:OTHER(And if you do think)"
+    ]
+  },
+  {
+    "ep": "s09e03",
+    "line": "I know you think this is below your pay grade--  It is below my pay grade.",
+    "prev_speaker": "I was the best",
+    "context_before": "I was the best secretary any firm ever had,  which is one of the reasons I am now COO.",
+    "context_after": "But more importantly, it sends a message  that I am more valuable as your lackey  than in my real position.",
+    "tags": [
+      "TO:OTHER(I was the best)",
+      "REG:PREEMPTIVE"
+    ]
+  },
+  {
+    "ep": "s09e03",
+    "line": "I just told you I almost got sued--  But you didn't get sued,  and you aren't the only one sick of that woman.",
+    "prev_speaker": "And",
+    "context_before": "And I'm sorry about that, but right now, I don't have time.",
+    "context_after": "What?  She had the nerve to ask me to be her secretary,  so I'm sorry that your case isn't going well,  but right now, I don't ha-- Where are you going?  I'm gonna go to that woman  and tell her she can do her own work.",
+    "tags": [
+      "TO:OTHER(And)"
+    ]
+  },
+  {
+    "ep": "s09e03",
+    "line": "my client just got fired.",
+    "prev_speaker": "What are you talking",
+    "context_before": "What are you talking about?  We're gonna go out for an early dinner,  and we're gonna talk about anything  but this place and that woman.",
+    "context_after": "And he's still gonna be fired in three hours,  but if I know you, if you clear your head,  he might not be fired in four.",
+    "tags": [
+      "TO:OTHER(What are you talking)"
+    ]
+  },
+  {
+    "ep": "s09e03",
+    "line": "specifically told me  that she would not let her relationship with Harvey  get in the way if I needed support.",
+    "prev_speaker": "Are you telling me",
+    "context_before": "Can't you understand that?  Gretchen  I have endured more humiliation in the last week  than I ever thought was possible.",
+    "context_after": "On a scale from one to ten,  how much support do you think I need right now?  Okay, Louis, I'm gonna tell you where they are  but I think you should let it go till tomorrow.",
+    "tags": [
+      "TO:OTHER(Are you telling me)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s09e03",
+    "line": "the whole point of tonight was just us.",
+    "prev_speaker": "Maybe I should get it",
+    "context_before": "Maybe I should get it.",
+    "context_after": "I know, but after the whole Faye thing,  I promised that we'd be there for him if he needed us.",
+    "tags": [
+      "TO:OTHER(Maybe I should get it)"
+    ]
+  },
+  {
+    "ep": "s09e03",
+    "line": "that is the nicest thing you've ever said to me.",
+    "prev_speaker": "Because tonight  you",
+    "context_before": "Because tonight  you are the most important woman in the room.",
+    "context_after": "\"Dirty Dancing\" it is.",
+    "tags": [
+      "TO:OTHER(Because tonight  you)"
+    ]
+  },
+  {
+    "ep": "s09e04",
+    "line": "from everything you've told me over the years,  the man can be selfish.",
+    "prev_speaker": "All right",
+    "context_before": "All right.",
+    "context_after": "Dad, if this has to do with Mike Ross,  Harvey would throw himself in front of a train for me.",
+    "tags": [
+      "TO:OTHER(All right)"
+    ]
+  },
+  {
+    "ep": "s09e04",
+    "line": "when two of the five members of management  have undue influence over each other,  something needs to be done.",
+    "prev_speaker": "And our relationship",
+    "context_before": "And our relationship is none of your business.",
+    "context_after": "What exactly are you trying to tell me, Faye?  That you have to give up your vote.",
+    "tags": [
+      "TO:OTHER(And our relationship)"
+    ]
+  },
+  {
+    "ep": "s09e04",
+    "line": "he said he was happy for you.",
+    "prev_speaker": "He said if",
+    "context_before": "\"What are we doing?\"  Are you saying you want to end this?  No, Harvey, I am saying that I want a relationship  with someone who, at some point,  will get along with my father.",
+    "context_after": "It's not the biggest deal in the world  if we don't get along.",
+    "tags": [
+      "TO:OTHER(He said if)"
+    ]
+  },
+  {
+    "ep": "s09e04",
+    "line": "is--is there something else going on?  \u00c2\u00a0  Isn't my father enough, Harvey?  He said that you wouldn't put me first.",
+    "prev_speaker": "But my",
+    "context_before": "But my father's been a regular part of mine,  and I shouldn't have to give up something  that's important to me  just because I'm in a relationship with you.",
+    "context_after": "Well, putting me first  would mean fixing your relationship with him.",
+    "tags": [
+      "TO:OTHER(But my)",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s09e04",
+    "line": "what's going on?  Because maybe I messed up,  but you know I don't think I'm better than you.",
+    "prev_speaker": "And as far as",
+    "context_before": "And as far as I'm concerned,  you think you're better than me.",
+    "context_after": "Maybe you don't, Harvey, but Faye does.",
+    "tags": [
+      "TO:OTHER(And as far as)"
+    ]
+  },
+  {
+    "ep": "s09e04",
+    "line": "losing her vote trumps you getting Gretchen back,  and we have to pick our battles.",
+    "prev_speaker": "We only have so much",
+    "context_before": "We only have so much leverage.",
+    "context_after": "And what a surprise; the battle we're picking is yours.",
+    "tags": [
+      "TO:OTHER(We only have so much)"
+    ]
+  },
+  {
+    "ep": "s09e04",
+    "line": "told you that, didn't she?  She did, and if you're anything like me,  you might not have been aware  that that's what was going on for you.",
+    "prev_speaker": "I thought I was",
+    "context_before": "I thought I was showing you I cared,  but instead, maybe it seemed like I don't respect you.",
+    "context_after": "Sounds like you two are a lot like me and her mother.",
+    "tags": [
+      "TO:OTHER(I thought I was)"
+    ]
+  },
+  {
+    "ep": "s09e04",
+    "line": "meet Lily.",
+    "prev_speaker": "Mom",
+    "context_before": "Mom, meet Donna.",
+    "context_after": "Lily, you have no idea  how long I have been wanting to meet you.",
+    "tags": [
+      "TO:OTHER(Mom)"
+    ]
+  },
+  {
+    "ep": "s09e05",
+    "line": "that's a great idea.",
+    "prev_speaker": "You and I are hitting",
+    "context_before": "You and I are hitting the town tonight.",
+    "context_after": "Thank you.",
+    "tags": [
+      "TO:OTHER(You and I are hitting)"
+    ]
+  },
+  {
+    "ep": "s09e05",
+    "line": "I can't sell out our clients  just because Mike married Robert's daughter.",
+    "prev_speaker": "Samantha",
+    "context_before": "He's Robert's family, and so are you.",
+    "context_after": "I didn't say \"sell out,\" I said \"compromise.",
+    "tags": [
+      "TO:OTHER(Samantha)"
+    ]
+  },
+  {
+    "ep": "s09e05",
+    "line": "do you have a minute?  Of course.",
+    "prev_speaker": "Who said",
+    "context_before": "Who said there's gonna be a next time?  What do you say we get a drink?  You, me, and Donna?  Yeah, that sounds nice, Harvey.",
+    "context_after": "Always.",
+    "tags": [
+      "TO:OTHER(Who said)"
+    ]
+  },
+  {
+    "ep": "s09e06",
+    "line": "you and I both know your colleagues  are going to act against me,  and it won't be through proper channels.",
+    "prev_speaker": "You mean you want me",
+    "context_before": "You mean you want me to stop them from retaliating  against your bullshit move.",
+    "context_after": "And if you don't stop them from doing it,  I don't see this firm surviving the year.",
+    "tags": [
+      "TO:OTHER(You mean you want me)",
+      "REG:BOUNDARY"
+    ]
+  },
+  {
+    "ep": "s09e06",
+    "line": "already told me, Harvey.",
+    "prev_speaker": "And I wanted you to",
+    "context_before": "And I wanted you to hear that from me.",
+    "context_after": "And for what it's worth,  I think you did the right thing.",
+    "tags": [
+      "TO:OTHER(And I wanted you to)",
+      "REG:PREEMPTIVE",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s09e07",
+    "line": "I was Harvey for two seconds,  and it made me feel like I have never felt before.",
+    "prev_speaker": "Louis",
+    "context_before": "Louis, this is a really bad idea.",
+    "context_after": "Harvey gets to feel that way every day of his life.",
+    "tags": [
+      "TO:LOUIS",
+      "REG:EMOTIONAL",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s09e07",
+    "line": "as far as I know,  Gavin Andrews is in a federal courthouse right now,  largely because of me.",
+    "prev_speaker": "Nailed that shit",
+    "context_before": "- What can I do for you? - It's about Gavin Andrews.",
+    "context_after": "I don't think I'm gonna be able to get a hold of him.",
+    "tags": [
+      "TO:OTHER(Nailed that shit)",
+      "REG:PREEMPTIVE"
+    ]
+  },
+  {
+    "ep": "s09e07",
+    "line": "if you're asking what I think you're asking,  - is this legal? - It is.",
+    "prev_speaker": "And I need it to be",
+    "context_before": "And I need it to be perfect.",
+    "context_after": "Well, it may be legal, but it isn't gonna be easy.",
+    "tags": [
+      "TO:OTHER(And I need it to be)"
+    ]
+  },
+  {
+    "ep": "s09e07",
+    "line": "gave you two favors? - She did.",
+    "prev_speaker": "And the fact that",
+    "context_before": "- Hold on.",
+    "context_after": "Well, if I help you, I want one of those favors.",
+    "tags": [
+      "TO:OTHER(And the fact that)"
+    ]
+  },
+  {
+    "ep": "s09e08",
+    "line": "I know what we're up against,  but I can't have you doubting me on this.",
+    "prev_speaker": "So",
+    "context_before": "\"Good\"? You don't even know what Malik has.",
+    "context_after": "I'm not doubting you, Harvey.",
+    "tags": [
+      "TO:OTHER(So)",
+      "REG:PREEMPTIVE"
+    ]
+  },
+  {
+    "ep": "s09e08",
+    "line": "Paulsen.",
+    "prev_speaker": "But Sean",
+    "context_before": "But Sean, did it ever occur to you that the person  who put you in this position isn't Andrew Malik?  It's Harvey Specter.",
+    "context_after": "I should have guessed Harvey would send you here.",
+    "tags": [
+      "TO:OTHER(But Sean)"
+    ]
+  },
+  {
+    "ep": "s09e08",
+    "line": "they probably had the meeting over coffee  and didn't wanna be disturbed.",
+    "prev_speaker": "And when I call",
+    "context_before": "And when I call Harvey, it goes straight to voicemail.",
+    "context_after": "Alex, I don't get this feeling very often,  and you don't know Andy Malik like I do.",
+    "tags": [
+      "TO:OTHER(And when I call)"
+    ]
+  },
+  {
+    "ep": "s09e09",
+    "line": "do you know where Gretchen is?  - Because I need - I don't care what you need, Faye.",
+    "prev_speaker": "So take that offer",
+    "context_before": "[TENSE MUSIC.]",
+    "context_after": "And I'm pretty sure Gretchen won't care,  and neither will Alex or Katrina  or anybody else around here.",
+    "tags": [
+      "TO:OTHER(So take that offer)",
+      "REG:COUNSEL"
+    ]
+  },
+  {
+    "ep": "s09e09",
+    "line": "are you here to finally tell me  what's really going on?  I'm here to say that I know that we're in the middle  of this thing, but Harvey's hurting.",
+    "prev_speaker": "Mike",
+    "context_before": "Mike, I started this thing to help Harvey,  and it's obviously ended up  going in a direction that none of us expected.",
+    "context_after": "He needs a break, and he needs it to be with you.",
+    "tags": [
+      "TO:MIKE",
+      "REG:PREEMPTIVE",
+      "REG:EMOTIONAL",
+      "REG:PROTECTIVE"
+    ]
+  },
+  {
+    "ep": "s09e10",
+    "line": "if we don't win this thing tomorrow,  Faye's putting me on the stand.",
+    "prev_speaker": "But I thought after a",
+    "context_before": "What? Harvey, you can't do that to them.",
+    "context_after": "Well, then find another way that doesn't involve this.",
+    "tags": [
+      "TO:OTHER(But I thought after a)"
+    ]
+  },
+  {
+    "ep": "s09e10",
+    "line": "listen to me.",
+    "prev_speaker": "Not make things worse",
+    "context_before": "Not make things worse.",
+    "context_after": "I know you called Mike because you knew I needed him.",
+    "tags": [
+      "TO:OTHER(Not make things worse)",
+      "REG:AUTHORITY"
+    ]
+  },
+  {
+    "ep": "s09e10",
+    "line": "I kept my feelings inside for so long  because I was afraid.",
+    "prev_speaker": "These things make you",
+    "context_before": "These things make you realize how precious life is,  how important every second we have on this earth is,  and how important the people we care about are to us.",
+    "context_after": "But when I finally got good news,  that's when I knew you were my everything.",
+    "tags": [
+      "TO:OTHER(These things make you)",
+      "REG:EMOTIONAL"
+    ]
+  },
+  {
+    "ep": "s09e10",
+    "line": "this is Lucy.",
+    "prev_speaker": "Is that",
+    "context_before": "- Can I hold her? - Yes.",
+    "context_after": "Hi, sweetheart.",
+    "tags": [
+      "TO:OTHER(Is that)"
+    ]
+  },
+  {
+    "ep": "s09e10",
+    "line": "and I talked it over, and  - we're leaving the firm.",
+    "prev_speaker": "Congratulations",
+    "context_before": "That's not all of it, Louis.",
+    "context_after": "- What?  We're going to Seattle to work with Mike and Rachel.",
+    "tags": [
+      "TO:OTHER(Congratulations)"
+    ]
+  }
+]

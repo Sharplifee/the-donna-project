@@ -1,0 +1,201 @@
+[
+  {
+    "episode": "S01E01",
+    "line": "Okay. What are you looking for?",
+    "to": "",
+    "context_before": "",
+    "context_after": "HARVEY: Another me.",
+    "stage_direction": "",
+    "tags": [
+      "TO:UNKNOWN",
+      "REGISTER:EMOTIONAL",
+      "REGISTER:WIT"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "[Looking through some papers] So... Chip.",
+    "to": "HARVEY",
+    "context_before": "HARVEY: Another me.",
+    "context_after": "[We see Chip, a young Harvard Law student, he looks fairly lively.]",
+    "stage_direction": "",
+    "tags": [
+      "TO:HARVEY"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "What makes you think that I'm gonna let the whitest man that I have ever seen interview for our firm?",
+    "to": "DONNA",
+    "context_before": "DONNA: [Looking through some papers] So... Chip.",
+    "context_after": "CHIP: Um, because I have an appointment.",
+    "stage_direction": "",
+    "tags": [
+      "TO:UNKNOWN",
+      "REGISTER:WIT"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "Kid, what is wrong with you? You look like you're 11 years old.",
+    "to": "MIKE",
+    "context_before": "MIKE: [To himself in the mirror] You can do this.",
+    "context_after": "[We see a young-looking Harvard Law student stood at the other side of the desk.]",
+    "stage_direction": "",
+    "tags": [
+      "TO:MIKE",
+      "REGISTER:WIT"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "Rick Sorkin. [Louder] Rick Sorkin.",
+    "to": "MAN",
+    "context_before": "MAN: Go after him. And stay on the radio.",
+    "context_after": "[Mike runs by and stops in the doorway, he coughs.]",
+    "stage_direction": "",
+    "tags": [
+      "TO:UNKNOWN"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "[To Mike] Rick Sorkin? [As Mike enters slowly, confused] Excuse me, Mr. Sorkin, you are 5 minutes late, is there a reason why I should let you in?",
+    "to": "DONNA",
+    "context_before": "DONNA: Rick Sorkin. [Louder] Rick Sorkin.",
+    "context_after": "MIKE: [Checks behind him, mimes \"wha..?\"] Look-, look, I'm just trying to ditch the cops, okay? I don't-, I don't really care if you let me in or not. [Checks behing again.]",
+    "stage_direction": "",
+    "tags": [
+      "TO:UNKNOWN"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "Mr. Specter will be right with you.",
+    "to": "MIKE",
+    "context_before": "MIKE: [Checks behind him, mimes \"wha..?\"] Look-, look, I'm just trying to ditch the cops, okay? I don't-, I don't really care if you let me in or not. [Checks behing again.]",
+    "context_after": "MIKE: What?",
+    "stage_direction": "",
+    "tags": [
+      "TO:MIKE"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "Can I get you anything? A coffee? A bottle of water?",
+    "to": "MIKE",
+    "context_before": "MIKE: What?",
+    "context_after": "[Skips to Mike entering the room Harvey is in.]",
+    "stage_direction": "",
+    "tags": [
+      "TO:MIKE"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "Can I help you?",
+    "to": "HARVEY",
+    "context_before": "HARVEY: Woah. What's this?",
+    "context_after": "BELLBOY: No. [Exits hastily]",
+    "stage_direction": "",
+    "tags": [
+      "TO:HARVEY"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "Jessica wants to see you in her office. [Whispering] Now.",
+    "to": "HARVEY",
+    "context_before": "HARVEY: Donna! [We see her walking toward him from behind] Someone's trying to have a little fun with me here.",
+    "context_after": "",
+    "stage_direction": "",
+    "tags": [
+      "TO:HARVEY",
+      "REGISTER:BOUNDARY"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "[Through intercom] You what?",
+    "to": "HARVEY",
+    "context_before": "HARVEY: I just got reamed for lying to a client and if they find I out that I lied about you going to Harvard, they'll take away my licence.",
+    "context_after": "HARVEY: Not now, Donna. [Gives Donna a look. To Mike] Look, I have to put my own interests above yours. It's nothing personal. You're fired. [Sits and goes on his laptop.]",
+    "stage_direction": "",
+    "tags": [
+      "TO:HARVEY",
+      "REGISTER:WIT"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "Absolutely, and after that you want me to show you how to wipe your ass?",
+    "to": "MIKE",
+    "context_before": "MIKE: Donna, can you show me how to fill out a subpoena?",
+    "context_after": "HARVEY: It's funny 'cause you should already know how to do both those things.",
+    "stage_direction": "",
+    "tags": [
+      "TO:MIKE",
+      "REGISTER:WIT"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "That was a little harsh.",
+    "to": "HARVEY",
+    "context_before": "HARVEY: I don't. You're a reflection of me and I absolutely care about me so get your skinny tie out of my face and get to work.",
+    "context_after": "HARVEY: Really? [Thinks.]",
+    "stage_direction": "",
+    "tags": [
+      "TO:HARVEY",
+      "REGISTER:WIT"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "Yeah.",
+    "to": "HARVEY",
+    "context_before": "HARVEY: Really? [Thinks.]",
+    "context_after": "",
+    "stage_direction": "",
+    "tags": [
+      "TO:HARVEY"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "I took care of that too, we've been married for the last seven years.",
+    "to": "HARVEY",
+    "context_before": "HARVEY: Marry me?",
+    "context_after": "HARVEY: Excellent.",
+    "stage_direction": "",
+    "tags": [
+      "TO:HARVEY",
+      "REGISTER:WIT"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "[On the phone] Yeah, what's up?",
+    "to": "LOUIS",
+    "context_before": "LOUIS: Time to face the music.",
+    "context_after": "HARVEY: I gotta get to the Kendrick filing, where the hell is Mike?",
+    "stage_direction": "",
+    "tags": [
+      "TO:LOUIS",
+      "REGISTER:WIT"
+    ]
+  },
+  {
+    "episode": "S01E01",
+    "line": "[On the phone] I don't know.",
+    "to": "HARVEY",
+    "context_before": "HARVEY: I gotta get to the Kendrick filing, where the hell is Mike?",
+    "context_after": "[Harvey hangs up and walks away.]",
+    "stage_direction": "",
+    "tags": [
+      "TO:HARVEY",
+      "REGISTER:RECOVERY",
+      "REGISTER:BOUNDARY"
+    ]
+  }
+]
