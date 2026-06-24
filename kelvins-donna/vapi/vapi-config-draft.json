@@ -1,0 +1,53 @@
+{
+  "name": "Donna — Kelvins Assistant",
+  "model": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "systemPrompt": "SEE: ../persona/system-prompt-v1.md",
+    "temperature": 0.4
+  },
+  "voice": {
+    "provider": "11labs",
+    "voiceId": "TBD — pending ElevenLabs voice selection",
+    "notes": "Target: warm, confident, deliberate. Not robotic. Not bubbly. Think early-40s professional who has seen everything and handles it all."
+  },
+  "firstMessage": "Kelvin Sharp's office, this is Donna.",
+  "endCallMessage": "I'll make sure that gets handled. Have a good one.",
+  "transcriber": {
+    "provider": "deepgram",
+    "model": "nova-3",
+    "language": "en"
+  },
+  "silenceTimeoutSeconds": 20,
+  "maxDurationSeconds": 600,
+  "endCallFunctionEnabled": true,
+  "recordingEnabled": true,
+  "hipaaEnabled": false,
+  "clientMessages": [
+    "transcript",
+    "hang",
+    "function-call",
+    "speech-update",
+    "metadata"
+  ],
+  "serverMessages": [
+    "end-of-call-report",
+    "status-update",
+    "hang",
+    "function-call"
+  ],
+  "notes": {
+    "phoneNumbers": {
+      "inbound": "TBD — new number for Kelvin Donna deployment",
+      "note": "Do NOT use Cliff's number. Separate line entirely."
+    },
+    "deployment": "Client-facing AND internal. Same agent, context switches based on caller ID mapping.",
+    "nextSteps": [
+      "Finalize ElevenLabs voice selection",
+      "Provision dedicated Twilio number",
+      "Wire end-of-call webhook to Corpus HQ or standalone DB",
+      "Build caller ID routing logic",
+      "Load Kelvin deal context into live memory layer"
+    ]
+  }
+}
