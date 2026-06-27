@@ -1,0 +1,79 @@
+{
+  "_readme": "VAPI assistant config for Donna — Kelvins deployment. Clone from Donna Base v2.1 (3d29e2c7-ef38-4d3b-bdc7-84685cac171f). Apply this as the OPERATOR config layer.",
+  "_base_assistant_id": "3d29e2c7-ef38-4d3b-bdc7-84685cac171f",
+  "_phone_number_to_assign": "+13853421163",
+  "_kelvin_phone": "+18013183760",
+  "_status": "READY TO DEPLOY — VAPI API access required to push",
+  
+  "name": "Donna — Kelvins Office",
+  
+  "serverUrl": "https://lbvaosyfikkpvcwksiph.supabase.co/functions/v1/donna-eoc",
+  "serverUrlSecret": "",
+  
+  "firstMessage": "Kelvin Sharps office, this is Donna.",
+  
+  "voice": {
+    "provider": "11labs",
+    "voiceId": "zjKlxAtFCRJu5B64OioI",
+    "_note": "Using Bryce voice (zjKlxAtFCRJu5B64OioI) as placeholder. Select warm confident female voice from ElevenLabs — target: early 40s professional."
+  },
+  
+  "model": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "temperature": 0.4,
+    "systemPrompt": "SEE: kelvins-donna/vapi/operator-context.md in the-donna-project repo. Paste full content here as operator prompt."
+  },
+  
+  "tools": [
+    {
+      "type": "function",
+      "function": {
+        "name": "get_lead_context",
+        "description": "Look up a caller by phone number to retrieve their lead history, prior call outcomes, open appointments, and recommended next action.",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "phone": {
+              "type": "string",
+              "description": "The callers phone number including country code"
+            }
+          },
+          "required": ["phone"]
+        }
+      },
+      "server": {
+        "url": "https://lbvaosyfikkpvcwksiph.supabase.co/functions/v1/donna-lead-lookup"
+      }
+    }
+  ],
+  
+  "analysisPlan": {
+    "summaryPrompt": "Summarize this call in 2-3 sentences. Who called, what did they want, what was decided or agreed.",
+    "structuredDataSchema": {
+      "type": "object",
+      "properties": {
+        "outcome": {
+          "type": "string",
+          "enum": ["qualified", "appointment_set", "follow_up", "not_interested", "existing_client", "wrong_number", "voicemail"]
+        },
+        "next_action": { "type": "string" },
+        "next_action_date": { "type": "string", "description": "YYYY-MM-DD" },
+        "appointment_datetime": { "type": "string", "description": "ISO 8601 if appointment set" },
+        "appointment_type": { "type": "string", "enum": ["showing", "callback", "consultation", "other"] },
+        "flag_for_kelvin": { "type": "boolean" },
+        "flag_reason": { "type": "string" }
+      },
+      "required": ["outcome", "next_action", "flag_for_kelvin"]
+    }
+  },
+  
+  "recordingEnabled": true,
+  "silenceTimeoutSeconds": 20,
+  "maxDurationSeconds": 600,
+  
+  "endCallFunctionEnabled": true,
+  
+  "clientMessages": ["transcript", "hang", "function-call", "speech-update"],
+  "serverMessages": ["end-of-call-report", "status-update", "hang", "function-call"]
+}
